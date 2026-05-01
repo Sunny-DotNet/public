@@ -1,0 +1,621 @@
+locales:
+  zh-CN:
+    file: Resume_zh-CN.md
+  en-US:
+    file: Resume_en-US.md
+  ja-JP:
+    file: Resume_ja-JP.md
+  fr-FR:
+    file: Resume_fr-FR.md
+
+identity:
+  name:
+    zh-CN: Sunny（深圳）
+    en-US: Sunny (Shenzhen)
+    ja-JP: Sunny（深圳）
+    fr-FR: Sunny (Shenzhen)
+
+labels:
+  email:
+    zh-CN: 邮箱
+    en-US: Email
+    ja-JP: メール
+    fr-FR: E-mail
+
+contact:
+  github:
+    label: Sunny-DotNet
+    url: https://github.com/Sunny-DotNet
+  twitter:
+    label: m67186636
+    url: https://twitter.com/m67186636
+  linkedin:
+    label: sunny-dotnet
+    url: https://www.linkedin.com/in/sunny-dotnet
+  email: m67186636@gmail.com
+
+sectionOrder:
+  - profile
+  - strengths
+  - techStack
+  - projects
+  - education
+  - certifications
+  - highlights
+  - community
+  - languages
+
+sections:
+  profile:
+    title:
+      zh-CN: 个人简介
+      en-US: Profile
+      ja-JP: プロフィール
+      fr-FR: Profil
+    body:
+      zh-CN: |-
+        高级 .NET 技术专家与开源开发者，拥有十余年工程经验。专注 C# 后端架构、NuGet SDK 库开发、分布式系统设计，同时具备大数据采集与检索、AI/大模型应用集成、物联网设备联动和 3D 场景展示的综合能力。曾主导省级重点工程与百万级数据平台交付，在 GitHub 维护 70+ 个公开仓库，并发布多个面向全球 .NET 开发者的开源 SDK。
+      en-US: |-
+        Senior .NET engineer and open-source contributor with over ten years of hands-on engineering experience. Specialized in C# backend architecture, NuGet SDK development, and distributed system design, with broad experience across big-data ingestion and retrieval, AI/LLM integration, IoT device orchestration, and 3D scene delivery. Led provincial key projects and million-scale data platforms, maintains 70+ public GitHub repositories, and publishes open-source SDKs for the global .NET community.
+      ja-JP: |-
+        10 年以上の実務経験を持つシニア .NET エンジニア兼オープンソース開発者です。C# バックエンドアーキテクチャ、NuGet SDK 開発、分散システム設計を専門とし、大規模データ収集・検索、AI/LLM 連携、IoT デバイス制御、3D シーン表示まで幅広く対応できます。省級重点プロジェクトやミリオンスケールのデータ基盤を主導し、GitHub で 70 以上の公開リポジトリを管理し、グローバルな .NET 開発者向けに複数のオープンソース SDK を公開しています。
+      fr-FR: |-
+        Ingénieur .NET senior et contributeur open source avec plus de dix ans d'expérience terrain. Spécialisé dans l'architecture backend C#, le développement de SDK NuGet et la conception de systèmes distribués, avec une expérience étendue en collecte et recherche de données massives, intégration IA/LLM, orchestration d'équipements IoT et rendu de scènes 3D. A piloté des projets provinciaux clés et des plateformes de données à l'échelle du million, maintient plus de 70 dépôts publics sur GitHub et publie plusieurs SDK open source pour la communauté .NET mondiale.
+
+  strengths:
+    title:
+      zh-CN: 技术优势与核心能力
+      en-US: Strengths & Core Skills
+      ja-JP: 強みと主要スキル
+      fr-FR: Forces et compétences clés
+    body:
+      zh-CN: |-
+        - **.NET 生态深度实践**：精通 .NET 6/7/8/9/10、ABP Framework（DDD 分层、多租户、权限体系）、EF Core，主导微服务架构与模块化应用开发。
+        - **NuGet SDK 库开发**：独立设计并发布多个高质量 .NET SDK，覆盖云服务、AI 模型、大数据解析等领域，遵循依赖注入、异步优先、多目标框架、多语言文档的工业级标准。
+        - **AI 与大模型集成**：封装 DashScope.Net、CloudflareAI.DotNet 等 SDK；集成 dify、Ollama 本地大模型，应用于无人直播智能互动、内容生成与弹幕语义理解。
+        - **分布式与高并发处理**：大数据采集、高并发分布式爬虫、Common Crawl 解析、MongoDB/Elasticsearch 百万级检索、异步管道、ETL 与聚合分析。
+        - **工业级设备联动系统**：负责万平展厅及上百台设备中控，覆盖时钟同步、TCP/IP 与串口通信、复杂设备同步调度与容灾机制。
+        - **前端与跨端开发**：熟悉 JavaScript/TypeScript、Vue 3、Blazor Server/WASM、THREE.JS 3D 场景渲染、UNI-APP 小程序、MAUI 跨平台桌面应用。
+        - **嵌入式与机器人系统**：Arduino/ESP32 硬件驱动，结合 3D 打印与微机中控，实现多模块分布式协作与自动化。
+        - **DevOps 与持续交付**：GitHub Actions CI/CD、Docker/Kubernetes 容器化部署、Selenium WebDriver 端到端测试、NuGet 自动发布流水线。
+      en-US: |-
+        - **Deep .NET ecosystem practice**: Expert in .NET 6/7/8/9/10, ABP Framework (DDD layering, multi-tenancy, permission systems), and EF Core; led microservice architectures and modular application development.
+        - **NuGet SDK development**: Independently designed and published production-grade .NET SDKs for cloud services, AI models, and big-data parsing, following dependency injection, async-first APIs, multi-target frameworks, and multilingual documentation standards.
+        - **AI & LLM integration**: Authored DashScope.Net and CloudflareAI.DotNet SDKs; integrated dify and Ollama local LLMs for intelligent unattended live-streaming interaction, content generation, and bullet-chat semantic understanding.
+        - **Distributed & high-concurrency processing**: Large-scale data ingestion, high-concurrency distributed crawling, Common Crawl parsing, MongoDB/Elasticsearch million-scale search, async pipelines, ETL, and aggregate analysis.
+        - **Industrial-grade device orchestration**: Architected central control for 10,000+ square meter exhibition spaces and 100+ devices, covering clock synchronization, TCP/IP and serial communication, synchronized scheduling, and disaster recovery.
+        - **Frontend & cross-platform development**: Skilled with JavaScript/TypeScript, Vue 3, Blazor Server/WASM, THREE.JS 3D scene rendering, UNI-APP mini programs, and MAUI cross-platform desktop applications.
+        - **Embedded & robotics systems**: Arduino/ESP32 hardware drivers, 3D printing, and microcomputer control for distributed modular collaboration and automation.
+        - **DevOps & continuous delivery**: GitHub Actions CI/CD, Docker/Kubernetes deployments, Selenium WebDriver E2E testing, and automated NuGet publishing pipelines.
+      ja-JP: |-
+        - **.NET エコシステムの深い実践**：.NET 6/7/8/9/10、ABP Framework（DDD レイヤリング、マルチテナント、権限管理）、EF Core に精通し、マイクロサービスアーキテクチャとモジュール化アプリケーション開発を主導。
+        - **NuGet SDK 開発**：クラウドサービス、AI モデル、大規模データ解析向けの .NET SDK を独立して設計・公開。依存性注入、非同期優先 API、マルチターゲット、複数言語ドキュメントを重視。
+        - **AI/LLM 連携**：DashScope.Net、CloudflareAI.DotNet などの SDK を開発。dify と Ollama ローカル LLM を連携し、無人ライブ配信の対話、コンテンツ生成、コメント意味理解に活用。
+        - **分散・高並行処理**：大規模データ収集、高並行分散クローリング、Common Crawl 解析、MongoDB/Elasticsearch によるミリオンスケール検索、非同期パイプライン、ETL、集計分析。
+        - **産業レベルの設備連動**：1 万平方メートル超の展示空間と 100 台以上の設備を対象に、時刻同期、TCP/IP・シリアル通信、同期スケジューリング、障害復旧を含む中控システムを設計。
+        - **フロントエンド・クロスプラットフォーム**：JavaScript/TypeScript、Vue 3、Blazor Server/WASM、THREE.JS、UNI-APP、MAUI に対応。
+        - **組込み・ロボティクス**：Arduino/ESP32、3D プリント、マイコン制御を組み合わせた分散モジュール協調と自動化。
+        - **DevOps・継続的デリバリー**：GitHub Actions CI/CD、Docker/Kubernetes、Selenium WebDriver E2E テスト、NuGet 自動公開パイプライン。
+      fr-FR: |-
+        - **Pratique approfondie de l'écosystème .NET** : maîtrise de .NET 6/7/8/9/10, ABP Framework (DDD, multi-tenant, permissions) et EF Core ; pilotage d'architectures microservices et d'applications modulaires.
+        - **Développement de SDK NuGet** : conception et publication de SDK .NET de niveau production pour les services cloud, les modèles IA et l'analyse de données massives, avec injection de dépendances, API asynchrones, multi-ciblage et documentation multilingue.
+        - **Intégration IA et LLM** : auteur de DashScope.Net et CloudflareAI.DotNet ; intégration de dify et d'Ollama pour l'interaction intelligente en live-streaming automatisé, la génération de contenu et la compréhension sémantique des messages.
+        - **Traitement distribué et haute concurrence** : ingestion de données à grande échelle, crawling distribué, analyse Common Crawl, recherche million-scale avec MongoDB/Elasticsearch, pipelines asynchrones, ETL et analyses agrégées.
+        - **Orchestration industrielle d'équipements** : architecture de contrôle central pour des espaces d'exposition de plus de 10 000 m² et plus de 100 équipements, incluant synchronisation horaire, TCP/IP, liaison série, planification synchronisée et reprise sur incident.
+        - **Frontend et multiplateforme** : JavaScript/TypeScript, Vue 3, Blazor Server/WASM, rendu 3D avec THREE.JS, mini-programmes UNI-APP et applications desktop MAUI.
+        - **Systèmes embarqués et robotique** : pilotes Arduino/ESP32, impression 3D et contrôle par micro-ordinateur pour collaboration modulaire distribuée et automatisation.
+        - **DevOps et livraison continue** : GitHub Actions CI/CD, Docker/Kubernetes, tests E2E Selenium WebDriver et pipelines de publication NuGet automatisés.
+
+  techStack:
+    title:
+      zh-CN: 技能栈
+      en-US: Tech Stack
+      ja-JP: 技術スタック
+      fr-FR: Stack technique
+    body:
+      zh-CN: |-
+        - **后端/分布式**：C#/.NET 6+，ABP Framework，Dapr，Quartz.NET，EF Core，SignalR，HangFire
+        - **SDK/NuGet 库**：CommonCrawl.Net，DigitalOcean.Net，DashScope.Net，CloudflareAI.DotNet，MusicBrainz.Net
+        - **大数据/AI**：MongoDB，Elasticsearch，Common Crawl，dify，Ollama，ML.NET，OpenCV/Emgu CV，Tesseract OCR
+        - **前端/跨端**：JavaScript，TypeScript，Vue 3，Blazor Server/WASM，Ant Design Vue，Element UI，ECharts/Chart.js，THREE.JS，UNI-APP，MAUI
+        - **物联网/嵌入式**：Arduino，ESP32，TCP/IP，串口通信，时钟同步（NTP）
+        - **DevOps/测试**：GitHub Actions，Azure DevOps，Docker，Kubernetes，Selenium WebDriver，Allure
+        - **其它**：Redis，IdentityServer，RESTful API，JWT，OAuth2.0，SourceLink，敏捷开发
+      en-US: |-
+        - **Backend/Distributed**: C#/.NET 6+, ABP Framework, Dapr, Quartz.NET, EF Core, SignalR, HangFire
+        - **SDK/NuGet Libraries**: CommonCrawl.Net, DigitalOcean.Net, DashScope.Net, CloudflareAI.DotNet, MusicBrainz.Net
+        - **Big Data/AI**: MongoDB, Elasticsearch, Common Crawl, dify, Ollama, ML.NET, OpenCV/Emgu CV, Tesseract OCR
+        - **Frontend/Cross-platform**: JavaScript, TypeScript, Vue 3, Blazor Server/WASM, Ant Design Vue, Element UI, ECharts/Chart.js, THREE.JS, UNI-APP, MAUI
+        - **IoT/Embedded**: Arduino, ESP32, TCP/IP, serial communication, clock synchronization (NTP)
+        - **DevOps/Testing**: GitHub Actions, Azure DevOps, Docker, Kubernetes, Selenium WebDriver, Allure
+        - **Other**: Redis, IdentityServer, RESTful API, JWT, OAuth2.0, SourceLink, Agile development
+      ja-JP: |-
+        - **バックエンド/分散**：C#/.NET 6+、ABP Framework、Dapr、Quartz.NET、EF Core、SignalR、HangFire
+        - **SDK/NuGet ライブラリ**：CommonCrawl.Net、DigitalOcean.Net、DashScope.Net、CloudflareAI.DotNet、MusicBrainz.Net
+        - **ビッグデータ/AI**：MongoDB、Elasticsearch、Common Crawl、dify、Ollama、ML.NET、OpenCV/Emgu CV、Tesseract OCR
+        - **フロントエンド/クロスプラットフォーム**：JavaScript、TypeScript、Vue 3、Blazor Server/WASM、Ant Design Vue、Element UI、ECharts/Chart.js、THREE.JS、UNI-APP、MAUI
+        - **IoT/組込み**：Arduino、ESP32、TCP/IP、シリアル通信、時刻同期（NTP）
+        - **DevOps/テスト**：GitHub Actions、Azure DevOps、Docker、Kubernetes、Selenium WebDriver、Allure
+        - **その他**：Redis、IdentityServer、RESTful API、JWT、OAuth2.0、SourceLink、アジャイル開発
+      fr-FR: |-
+        - **Backend/Distribué** : C#/.NET 6+, ABP Framework, Dapr, Quartz.NET, EF Core, SignalR, HangFire
+        - **SDK/Bibliothèques NuGet** : CommonCrawl.Net, DigitalOcean.Net, DashScope.Net, CloudflareAI.DotNet, MusicBrainz.Net
+        - **Big Data/IA** : MongoDB, Elasticsearch, Common Crawl, dify, Ollama, ML.NET, OpenCV/Emgu CV, Tesseract OCR
+        - **Frontend/Multiplateforme** : JavaScript, TypeScript, Vue 3, Blazor Server/WASM, Ant Design Vue, Element UI, ECharts/Chart.js, THREE.JS, UNI-APP, MAUI
+        - **IoT/Embarqué** : Arduino, ESP32, TCP/IP, communication série, synchronisation horaire (NTP)
+        - **DevOps/Tests** : GitHub Actions, Azure DevOps, Docker, Kubernetes, Selenium WebDriver, Allure
+        - **Autres** : Redis, IdentityServer, RESTful API, JWT, OAuth2.0, SourceLink, développement Agile
+
+  projects:
+    title:
+      zh-CN: 主要项目经验
+      en-US: Major Project Experience
+      ja-JP: 主なプロジェクト経験
+      fr-FR: Expériences projet majeures
+    body:
+      zh-CN: |-
+        ### 开源 .NET SDK 库
+
+        独立设计并维护多个面向 .NET 生态的开源 SDK 库，统一遵循依赖注入、异步优先、多目标框架编译、多语言文档的设计规范。
+
+        | SDK 库 | 功能描述 | 技术亮点 |
+        |--------|---------|---------|
+        | [**CommonCrawl.Net**](https://github.com/Sunny-DotNet/CommonCrawl.Net) | Common Crawl 大规模网页档案解析库 | WARC 格式解析、Parquet 索引读取、断点续传、`IAsyncEnumerable<T>` 流式处理 |
+        | [**DigitalOcean.Net**](https://github.com/Sunny-DotNet/DigitalOcean.Net) | DigitalOcean 云服务 API 客户端 | 覆盖 40+ 资源分类、OpenAPI 自动代码生成、强类型 DTO |
+        | [**DashScope.Net**](https://github.com/Sunny-DotNet/DashScope.Net) | 阿里云灵积（通义千问等）大模型 SDK | Chat/Video 生成接口、函数调用、SSE 流式响应 |
+        | [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | Cloudflare Workers AI 轻量 SDK | SSE 流式输出、模型发现与元数据映射、环境变量配置 |
+        | [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | MusicBrainz 音乐元数据库客户端 | 媒体信息检索、视频下载、元数据解析 |
+
+        ### ExchangeRates —— 国际汇率自动化数据服务 ⭐5
+
+        - 基于 GitHub Actions 构建的全自动国际汇率数据服务，每小时同步一次，持续稳定运行。
+        - 覆盖全球主要货币汇率，输出完整版与精简版 JSON 格式，支持 ISO 4217 标准。
+        - 项目获 5 个 GitHub Star，是个人最高星标项目，已被外部开发者采用。
+
+        [ExchangeRates 项目仓库](https://github.com/Sunny-DotNet/ExchangeRates)
+
+        ### 省级重点展厅系统 —— 万平级展厅设备联动与 3D 场景展示
+
+        - 负责某省重点大型展厅整体技术架构设计与落地，现场面积超一万平方米，集成百余台显示屏、投影仪、灯光音视频、自动机械设备。
+        - 基于 C#/.NET 搭建中控后台与调度服务，通过 TCP/IP/串口协议将硬件设备分区管理，支持多组设备同步、分区联动和大秀模式切换。
+        - 独立研发时钟同步机制（NTP 与私有协议），全场终端动作触发精准到毫秒级。
+        - 实现分布式故障诊断与容灾调度，设备健康监控与异常远程预警。
+        - 使用 THREE.JS 完成多屏幕 3D 场景渲染与特效联动，包括虚拟空间漫游、全息投影、动态粒子等高级特效。
+        - 全程主导健康监控与自动调度系统稳定交付，获业主高度评价。
+
+        ### Global-sites —— 大数据分布式采集与百万级检索
+
+        - 主导高并发大数据采集与内容分析系统，支撑百万级网页数据实时处理与检索。
+        - .NET 核心分布式调度架构，基于自研 CommonCrawl.Net SDK 采集 Common Crawl 数据集并批量解析 WARC 格式，自动抽取页面结构和元信息。
+        - MongoDB 分片集群 + Elasticsearch 全文索引，支撑百 GB 量级数据查询与聚合。
+        - 设计数据去重与清洗管道，保障统计与分析准确性。
+        - 可扩展批量 ETL 管道，为多业务线输出高质量数据底座。
+
+        [Global-sites 项目仓库](https://github.com/Sunny-DotNet/Global-sites)
+
+        ### 智能美业管理平台（beauty）
+
+        - 后端模块化开发（.NET Core + Dapr 微服务）、EF Core 建模及高效查询。
+        - Elasticsearch 实时日志与运营统计分析。
+        - Vue.js + TypeScript + Ant Design Vue 前端，接口归一与业务解耦。
+        - UNI-APP 小程序，快速集成微信、支付宝、抖音等主流平台，业务功能多端一键上线。
+        - 三端统一 API 网关，自动化部署流水线，支持多角色权限分权、消息推送与第三方支付集成。
+
+        [beauty 项目仓库](https://github.com/Sunny-DotNet/beauty)
+
+        ### 无人值守矩阵直播平台（mt）
+
+        - 建设矩阵式无人直播平台，支持自动排障、远程推流、弹幕互动与观众行为智能分析。
+        - .NET Core + SignalR 实时互动 + Quartz.NET 自动化直播调度，Docker 弹性部署。
+        - AI 集成：自研 DashScope.Net SDK 对接通义千问系列模型，引入 dify 与 Ollama，实现自动弹幕应答、内容生成与业务脚本规划。
+        - 多平台多账号矩阵自动化运营，容器化高并发处理。
+
+        [mt 项目仓库](https://github.com/Sunny-DotNet/mt)
+
+        ### 视觉识别平台（Vision）
+
+        - 运用 OpenCV for .NET/Emgu CV 图像处理、Tesseract OCR 文本识别、ML.NET 机器学习模型集成。
+        - ABP 微服务架构，支持多租户和复杂权限管理，模块化 DDD 分层设计。
+        - Blazor/Vue 前端分离式设计、Docker 自动化测试与部署。
+
+        [Vision 项目仓库](https://github.com/Sunny-DotNet/Vision)
+
+        ### 嵌入式机器人与 IoT 组装项目
+
+        - Arduino 平台控制舵机、机械臂和传感器，结合开源 3D 打印进行模块化组装。
+        - 中控微机多模块互联，支持简单语音对话、机器人动作决策、在线升级与多任务协同。
+        - 技术落地应用于教育场景及智能展厅展示。
+
+        ### ABP 企业级业务系统开发
+
+        - 在 GuorunAbp、OpenHub、Soobn.Music 等多个项目中深度实践 ABP Framework。
+        - 模块化领域驱动设计（DDD），完整分层：Application/Core/EntityFrameworkCore/Web。
+        - 多数据库兼容，IdentityServer 身份认证、细粒度权限管理及多租户落地。
+        - HangFire 后台任务调度、Redis 分布式缓存、SignalR 实时推送。
+        - Vue 3/Blazor 前端复杂页面开发，支撑多业态业务搭建。
+
+        ### Selenium WebDriver 自动化测试平台
+
+        - 端到端 UI 自动化测试，Allure 可视化报告，结合 GitHub Actions CI/CD 流水线实现高效自动化验收。
+        - 浏览器自动化（Puppeteer/Selenium）应用于多个项目的回归测试与数据采集场景。
+      en-US: |-
+        ### Open-Source .NET SDK Libraries
+
+        Independently designed and maintained multiple open-source SDK libraries for the .NET ecosystem, consistently following dependency injection, async-first APIs, multi-target framework compilation, and multilingual documentation standards.
+
+        | SDK Library | Description | Technical Highlights |
+        |-------------|-------------|---------------------|
+        | [**CommonCrawl.Net**](https://github.com/Sunny-DotNet/CommonCrawl.Net) | Common Crawl web archive parsing library | WARC parsing, Parquet index reading, resume support, `IAsyncEnumerable<T>` streaming |
+        | [**DigitalOcean.Net**](https://github.com/Sunny-DotNet/DigitalOcean.Net) | DigitalOcean cloud API client | 40+ resource categories, OpenAPI code generation, strongly typed DTOs |
+        | [**DashScope.Net**](https://github.com/Sunny-DotNet/DashScope.Net) | Alibaba Cloud DashScope/Tongyi Qianwen LLM SDK | Chat/video generation APIs, function calling, SSE streaming |
+        | [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | Lightweight SDK for Cloudflare Workers AI | SSE streaming output, model discovery and metadata mapping, environment-based configuration |
+        | [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | MusicBrainz music metadata client | Media information retrieval, video download, metadata parsing |
+
+        ### ExchangeRates — Automated International Exchange Rate Service ⭐5
+
+        - Fully automated international exchange rate data service built with GitHub Actions, syncing every hour with continuous stable operation.
+        - Covers major global currencies, outputting both full and compact JSON formats with ISO 4217 compliance.
+        - Earned 5 GitHub stars as the highest-starred personal project and has been adopted by external developers.
+
+        [ExchangeRates project repo](https://github.com/Sunny-DotNet/ExchangeRates)
+
+        ### Provincial Key Exhibition Hall System — Large-Scale Device Orchestration & 3D Scene Display
+
+        - Led architecture and implementation for a provincial key exhibition hall spanning over 10,000 square meters, integrating 100+ screens, projectors, AV systems, lighting, and automated mechanical devices.
+        - Built C#/.NET central-control backend and scheduling services, managing hardware by zones through TCP/IP and serial protocols with grouped synchronization and show-mode switching.
+        - Developed NTP/private clock synchronization mechanisms with millisecond-level trigger precision across all terminals.
+        - Implemented distributed fault diagnosis, disaster recovery scheduling, device health monitoring, and remote abnormal alerts.
+        - Delivered multi-screen 3D scene rendering and visual-effect orchestration with THREE.JS, including virtual roaming, holographic projection, and dynamic particles.
+        - Led stable delivery of health monitoring and automated scheduling systems, earning strong stakeholder recognition.
+
+        ### Global-sites — Distributed Big Data Collection & Million-Scale Search
+
+        - Led high-concurrency data collection and content analytics supporting real-time processing and retrieval of millions of web records.
+        - Built a .NET distributed scheduling architecture, using the self-developed CommonCrawl.Net SDK to ingest Common Crawl datasets, batch parse WARC files, and extract page structure and metadata.
+        - MongoDB sharded clusters + Elasticsearch full-text indexing for querying and aggregating hundreds of GB of data.
+        - Designed deduplication and cleansing pipelines to improve statistical and analytical accuracy.
+        - Built extensible batch ETL pipelines as a reusable high-quality data foundation.
+
+        [Global-sites project repo](https://github.com/Sunny-DotNet/Global-sites)
+
+        ### Smart Beauty Management Platform (beauty)
+
+        - Delivered modular backend development with .NET Core + Dapr microservices, EF Core modeling, and efficient querying.
+        - Implemented real-time logging and operational analytics with Elasticsearch.
+        - Built Vue.js + TypeScript + Ant Design Vue frontend experiences with unified APIs and decoupled business modules.
+        - Launched UNI-APP mini programs for WeChat, Alipay, Douyin, and other mainstream platforms.
+        - Unified API gateway across mobile, web, and mini programs with automated deployment, role-based permissions, push messaging, and third-party payment integration.
+
+        [beauty project repo](https://github.com/Sunny-DotNet/beauty)
+
+        ### Unattended Matrix Live Streaming Platform (mt)
+
+        - Built a matrix-style unattended live-streaming platform with automated recovery, remote streaming, bullet-chat interaction, and audience behavior analytics.
+        - .NET Core + SignalR for real-time interaction, Quartz.NET for automated live scheduling, and Docker for elastic deployments.
+        - AI integration: authored DashScope.Net SDK for Tongyi Qianwen models and integrated dify and Ollama for automatic bullet-chat replies, content generation, and business script planning.
+        - Multi-platform, multi-account automated operations with containerized high-concurrency processing.
+
+        [mt project repo](https://github.com/Sunny-DotNet/mt)
+
+        ### Vision Recognition Platform (Vision)
+
+        - Applied OpenCV for .NET/Emgu CV image processing, Tesseract OCR, and ML.NET machine-learning model integration.
+        - ABP microservice architecture with multi-tenancy, fine-grained permissions, and modular DDD layering.
+        - Decoupled Blazor/Vue frontend design with Docker-based automated testing and deployment.
+
+        [Vision project repo](https://github.com/Sunny-DotNet/Vision)
+
+        ### Embedded Robotics & IoT Assembly
+
+        - Controlled servos, robotic arms, and sensors on Arduino platforms, combined with open-source 3D printing for modular assembly.
+        - Connected multiple microcontroller modules for simple voice interaction, robot action decisions, online upgrades, and multitask collaboration.
+        - Applied in educational scenarios and intelligent exhibition displays.
+
+        ### ABP Enterprise Business Systems
+
+        - Deep ABP Framework practice across GuorunAbp, OpenHub, Soobn.Music, and related projects.
+        - Modular domain-driven design with full Application/Core/EntityFrameworkCore/Web layering.
+        - Multi-database support, IdentityServer authentication, fine-grained permissions, and multi-tenancy.
+        - HangFire background jobs, Redis distributed caching, and SignalR real-time push.
+        - Complex Vue 3/Blazor frontend development supporting multiple business domains.
+
+        ### Selenium WebDriver Automated Testing Platform
+
+        - End-to-end UI automation testing with Allure reports, integrated with GitHub Actions CI/CD for efficient acceptance.
+        - Browser automation with Puppeteer/Selenium applied to regression testing and data collection scenarios.
+      ja-JP: |-
+        ### オープンソース .NET SDK ライブラリ
+
+        .NET エコシステム向けに複数のオープンソース SDK を独立して設計・保守し、依存性注入、非同期優先 API、マルチターゲットビルド、複数言語ドキュメントの設計基準を一貫して適用しています。
+
+        | SDK ライブラリ | 機能概要 | 技術的特徴 |
+        |---------------|----------|------------|
+        | [**CommonCrawl.Net**](https://github.com/Sunny-DotNet/CommonCrawl.Net) | Common Crawl 大規模ウェブアーカイブ解析ライブラリ | WARC 解析、Parquet インデックス読み取り、レジューム対応、`IAsyncEnumerable<T>` ストリーミング |
+        | [**DigitalOcean.Net**](https://github.com/Sunny-DotNet/DigitalOcean.Net) | DigitalOcean クラウド API クライアント | 40 以上のリソースカテゴリ、OpenAPI 自動コード生成、厳密型 DTO |
+        | [**DashScope.Net**](https://github.com/Sunny-DotNet/DashScope.Net) | Alibaba Cloud DashScope/Tongyi Qianwen LLM SDK | Chat/Video 生成 API、関数呼び出し、SSE ストリーミング |
+        | [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | Cloudflare Workers AI 向け軽量 SDK | SSE ストリーミング出力、モデル検出とメタデータマッピング、環境変数設定 |
+        | [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | MusicBrainz 音楽メタデータクライアント | メディア情報検索、動画ダウンロード、メタデータ解析 |
+
+        ### ExchangeRates — 国際為替レート自動データサービス ⭐5
+
+        - GitHub Actions で構築した完全自動の国際為替レートデータサービス。1 時間ごとに同期し、安定稼働。
+        - 主要通貨の為替レートをカバーし、ISO 4217 に準拠した完全版・軽量版 JSON を出力。
+        - 個人プロジェクトとして最高の 5 GitHub Star を獲得し、外部開発者にも利用されています。
+
+        [ExchangeRates プロジェクト](https://github.com/Sunny-DotNet/ExchangeRates)
+
+        ### 省級重点展示ホールシステム — 大規模設備連動と 3D シーン表示
+
+        - 1 万平方メートル超の省級重点展示ホールで、100 台以上のスクリーン、プロジェクター、音響映像、照明、自動機械設備を統合する全体技術アーキテクチャを主導。
+        - C#/.NET で中控バックエンドとスケジューリングサービスを構築し、TCP/IP・シリアルプロトコルで設備をゾーン管理、グループ同期とショーモード切替に対応。
+        - NTP と独自プロトコルによる時刻同期機構を開発し、端末動作のミリ秒級トリガー精度を実現。
+        - 分散障害診断、障害復旧スケジューリング、設備ヘルスモニタリング、リモート異常通知を実装。
+        - THREE.JS による複数スクリーン 3D レンダリングと演出連動を実現し、仮想空間移動、ホログラム投影、動的パーティクルなどを提供。
+        - ヘルスモニタリングと自動スケジューリングシステムの安定納品を主導し、関係者から高い評価を獲得。
+
+        ### Global-sites — 分散型ビッグデータ収集とミリオンスケール検索
+
+        - 高並行のデータ収集・コンテンツ分析システムを主導し、数百万規模のウェブデータ処理と検索を支援。
+        - .NET 分散スケジューリング基盤を構築し、自社開発の CommonCrawl.Net SDK で Common Crawl データセットを収集、WARC をバッチ解析し、ページ構造とメタ情報を抽出。
+        - MongoDB シャーディングクラスタ + Elasticsearch 全文検索により、数百 GB 規模のデータ照会と集計を支援。
+        - 重複排除とクレンジングパイプラインを設計し、統計・分析の精度を向上。
+        - 複数業務向けに再利用可能なバッチ ETL データ基盤を構築。
+
+        [Global-sites プロジェクト](https://github.com/Sunny-DotNet/Global-sites)
+
+        ### スマート美容業務管理プラットフォーム（beauty）
+
+        - .NET Core + Dapr マイクロサービス、EF Core モデリング、高効率クエリによるモジュール化バックエンド開発。
+        - Elasticsearch によるリアルタイムログと運用統計分析。
+        - Vue.js + TypeScript + Ant Design Vue によるフロントエンド開発、API 統一と業務分離。
+        - UNI-APP ミニプログラムで WeChat、Alipay、Douyin など主要プラットフォームへ迅速展開。
+        - モバイル、Web、ミニプログラムを横断する統一 API ゲートウェイ、自動デプロイ、ロール権限、通知、外部決済連携を実装。
+
+        [beauty プロジェクト](https://github.com/Sunny-DotNet/beauty)
+
+        ### 無人マトリックスライブ配信プラットフォーム（mt）
+
+        - 自動復旧、リモート配信、コメント対話、視聴者行動分析を備えたマトリックス型無人ライブ配信基盤を構築。
+        - .NET Core + SignalR によるリアルタイム対話、Quartz.NET による自動配信スケジューリング、Docker による弾力的デプロイ。
+        - AI 連携：DashScope.Net SDK で Tongyi Qianwen モデルに接続し、dify と Ollama により自動コメント応答、コンテンツ生成、業務台本作成を実現。
+        - 複数プラットフォーム・複数アカウントの自動運用とコンテナ化された高並行処理。
+
+        [mt プロジェクト](https://github.com/Sunny-DotNet/mt)
+
+        ### 画像認識プラットフォーム（Vision）
+
+        - OpenCV for .NET/Emgu CV 画像処理、Tesseract OCR、ML.NET 機械学習モデルを統合。
+        - ABP マイクロサービスアーキテクチャで、マルチテナント、細粒度権限、モジュール化 DDD レイヤリングに対応。
+        - Blazor/Vue 分離型フロントエンド、Docker による自動テストとデプロイ。
+
+        [Vision プロジェクト](https://github.com/Sunny-DotNet/Vision)
+
+        ### 組込みロボットと IoT 組立プロジェクト
+
+        - Arduino でサーボ、ロボットアーム、センサーを制御し、オープンソース 3D プリントと組み合わせてモジュール化。
+        - 中控マイコンで複数モジュールを連携し、簡易音声対話、ロボット動作判断、オンライン更新、マルチタスク協調に対応。
+        - 教育シーンとスマート展示で活用。
+
+        ### ABP エンタープライズ業務システム開発
+
+        - GuorunAbp、OpenHub、Soobn.Music など複数プロジェクトで ABP Framework を深く実践。
+        - Application/Core/EntityFrameworkCore/Web の完全なレイヤリングを持つモジュール化 DDD。
+        - 複数データベース、IdentityServer 認証、細粒度権限、マルチテナントに対応。
+        - HangFire バックグラウンドジョブ、Redis 分散キャッシュ、SignalR リアルタイム通知。
+        - Vue 3/Blazor の複雑なフロントエンド開発で複数業態を支援。
+
+        ### Selenium WebDriver 自動テストプラットフォーム
+
+        - Allure レポート付き E2E UI 自動テストを GitHub Actions CI/CD と統合し、効率的な受け入れテストを実現。
+        - Puppeteer/Selenium によるブラウザ自動化を、回帰テストとデータ収集に活用。
+      fr-FR: |-
+        ### Bibliothèques .NET SDK open source
+
+        Conception et maintenance indépendantes de plusieurs SDK open source pour l'écosystème .NET, avec une approche cohérente : injection de dépendances, API asynchrones, compilation multi-cible et documentation multilingue.
+
+        | Bibliothèque SDK | Description | Points techniques |
+        |------------------|-------------|-------------------|
+        | [**CommonCrawl.Net**](https://github.com/Sunny-DotNet/CommonCrawl.Net) | Bibliothèque d'analyse des archives web Common Crawl | Analyse WARC, lecture d'index Parquet, reprise, streaming `IAsyncEnumerable<T>` |
+        | [**DigitalOcean.Net**](https://github.com/Sunny-DotNet/DigitalOcean.Net) | Client API cloud DigitalOcean | 40+ catégories de ressources, génération de code OpenAPI, DTO fortement typés |
+        | [**DashScope.Net**](https://github.com/Sunny-DotNet/DashScope.Net) | SDK LLM Alibaba Cloud DashScope/Tongyi Qianwen | API chat/vidéo, function calling, streaming SSE |
+        | [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | SDK léger pour Cloudflare Workers AI | Sortie SSE en streaming, découverte de modèles et mapping de métadonnées, configuration par variables d'environnement |
+        | [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | Client de métadonnées musicales MusicBrainz | Recherche média, téléchargement vidéo, analyse de métadonnées |
+
+        ### ExchangeRates — Service automatisé de taux de change internationaux ⭐5
+
+        - Service de données de taux de change internationaux entièrement automatisé avec GitHub Actions, synchronisé toutes les heures et stable en continu.
+        - Couvre les principales devises mondiales et produit des JSON complets et compacts conformes ISO 4217.
+        - A obtenu 5 étoiles GitHub, le meilleur score parmi les projets personnels, et a été adopté par des développeurs externes.
+
+        [Dépôt ExchangeRates](https://github.com/Sunny-DotNet/ExchangeRates)
+
+        ### Système de hall d'exposition provincial — Orchestration d'équipements à grande échelle et scène 3D
+
+        - Pilotage de l'architecture et de la mise en œuvre d'un hall d'exposition provincial de plus de 10 000 m² intégrant 100+ écrans, projecteurs, systèmes audiovisuels, éclairages et équipements mécaniques automatisés.
+        - Construction d'un backend de contrôle central et de services de planification en C#/.NET, avec gestion zonée des équipements via TCP/IP et liaison série, synchronisation de groupes et modes show.
+        - Développement de mécanismes de synchronisation NTP et privés pour des déclenchements au niveau de la milliseconde.
+        - Mise en place du diagnostic distribué, de la reprise sur incident, du monitoring de santé des équipements et des alertes distantes.
+        - Rendu et orchestration multi-écrans avec THREE.JS : visite virtuelle, projection holographique, particules dynamiques et effets avancés.
+        - Livraison stable du monitoring et de la planification automatique, avec forte reconnaissance des parties prenantes.
+
+        ### Global-sites — Collecte big data distribuée et recherche à l'échelle du million
+
+        - Pilotage d'un système de collecte et d'analyse de contenu haute concurrence pour le traitement et la recherche temps réel de millions de pages.
+        - Architecture distribuée .NET avec CommonCrawl.Net pour collecter Common Crawl, analyser les WARC en lots et extraire structures de pages et métadonnées.
+        - Clusters MongoDB shardés + indexation plein texte Elasticsearch pour requêter et agréger plusieurs centaines de Go de données.
+        - Conception de pipelines de déduplication et de nettoyage pour améliorer la précision statistique et analytique.
+        - Pipelines ETL batch extensibles servant de base de données réutilisable pour plusieurs usages.
+
+        [Dépôt Global-sites](https://github.com/Sunny-DotNet/Global-sites)
+
+        ### Plateforme de gestion beauté intelligente (beauty)
+
+        - Développement backend modulaire avec microservices .NET Core + Dapr, modélisation EF Core et requêtes optimisées.
+        - Logs temps réel et analyses opérationnelles avec Elasticsearch.
+        - Frontend Vue.js + TypeScript + Ant Design Vue, avec API unifiées et séparation des modules métier.
+        - Mini-programmes UNI-APP pour WeChat, Alipay, Douyin et autres plateformes majeures.
+        - Passerelle API unifiée mobile/web/mini-programmes, déploiement automatisé, permissions par rôles, notifications et paiements tiers.
+
+        [Dépôt beauty](https://github.com/Sunny-DotNet/beauty)
+
+        ### Plateforme de live-streaming matricielle sans surveillance (mt)
+
+        - Construction d'une plateforme de live-streaming automatisée avec reprise automatique, diffusion distante, interaction par messages et analyse du comportement des spectateurs.
+        - .NET Core + SignalR pour le temps réel, Quartz.NET pour la planification et Docker pour les déploiements élastiques.
+        - Intégration IA : SDK DashScope.Net pour Tongyi Qianwen, dify et Ollama pour réponses automatiques, génération de contenu et planification de scripts métier.
+        - Opérations automatisées multi-plateformes et multi-comptes avec traitement haute concurrence conteneurisé.
+
+        [Dépôt mt](https://github.com/Sunny-DotNet/mt)
+
+        ### Plateforme de reconnaissance visuelle (Vision)
+
+        - Traitement d'image avec OpenCV for .NET/Emgu CV, OCR Tesseract et intégration de modèles ML.NET.
+        - Architecture microservices ABP avec multi-tenant, permissions fines et couches DDD modulaires.
+        - Frontend découplé Blazor/Vue, tests automatisés et déploiement avec Docker.
+
+        [Dépôt Vision](https://github.com/Sunny-DotNet/Vision)
+
+        ### Robotique embarquée et assemblage IoT
+
+        - Contrôle de servos, bras robotisés et capteurs sur Arduino, combiné à l'impression 3D open source pour l'assemblage modulaire.
+        - Interconnexion de modules microcontrôleurs pour interaction vocale simple, décisions d'actions robotiques, mises à jour en ligne et collaboration multitâche.
+        - Applications dans l'éducation et les expositions intelligentes.
+
+        ### Systèmes métier d'entreprise avec ABP
+
+        - Pratique approfondie d'ABP Framework sur GuorunAbp, OpenHub, Soobn.Music et d'autres projets.
+        - DDD modulaire avec couches Application/Core/EntityFrameworkCore/Web complètes.
+        - Support multi-base, authentification IdentityServer, permissions fines et multi-tenant.
+        - Tâches de fond HangFire, cache distribué Redis et push temps réel SignalR.
+        - Développement frontend Vue 3/Blazor pour des domaines métier variés.
+
+        ### Plateforme de tests automatisés Selenium WebDriver
+
+        - Tests E2E UI automatisés avec rapports Allure, intégrés à GitHub Actions CI/CD pour l'acceptation.
+        - Automatisation navigateur Puppeteer/Selenium pour tests de régression et collecte de données.
+
+  education:
+    title:
+      zh-CN: 教育背景
+      en-US: Education
+      ja-JP: 学歴
+      fr-FR: Formation
+    body:
+      zh-CN: |-
+        中国国家开放大学<br>
+        计算机信息管理专业
+      en-US: |-
+        China National Open University<br>
+        Major: Computer Information Management
+      ja-JP: |-
+        中国国家開放大学<br>
+        専攻：コンピュータ情報管理
+      fr-FR: |-
+        Université ouverte nationale de Chine<br>
+        Spécialité : gestion de l'information informatique
+
+  certifications:
+    title:
+      zh-CN: 资格认证
+      en-US: Certifications
+      ja-JP: 資格・認定
+      fr-FR: Certifications
+    body:
+      zh-CN: |-
+        - **Foundational C# with Microsoft**<br>
+          freeCodeCamp · 颁发日期：2025 年 10 月<br>
+          认证编号：sunny-dotnet-fcswm
+      en-US: |-
+        - **Foundational C# with Microsoft**<br>
+          freeCodeCamp · Issued: Oct 2025<br>
+          Certificate ID: sunny-dotnet-fcswm
+      ja-JP: |-
+        - **Foundational C# with Microsoft**<br>
+          freeCodeCamp · 発行：2025 年 10 月<br>
+          認定 ID：sunny-dotnet-fcswm
+      fr-FR: |-
+        - **Foundational C# with Microsoft**<br>
+          freeCodeCamp · Délivré : octobre 2025<br>
+          ID de certification : sunny-dotnet-fcswm
+
+  highlights:
+    title:
+      zh-CN: 个人亮点
+      en-US: Highlights
+      ja-JP: 個人の強み
+      fr-FR: Points forts
+    body:
+      zh-CN: |-
+        - 多领域实战经验，覆盖大数据、物联网、AI 大模型、展厅设备联动、嵌入式机器人和 3D/小程序展示。
+        - 具备独立设计与发布 NuGet SDK 库的能力，遵循工业级开源标准。
+        - 擅长复杂系统集成，在高并发与多协议硬件场景中具备较强问题解决能力。
+        - 乐于开源、善于知识分享，具备良好的沟通协调能力。
+      en-US: |-
+        - Multi-domain hands-on experience across big data, IoT, AI/LLM, exhibition device orchestration, embedded robotics, and 3D/mini-program delivery.
+        - Proven ability to independently design and publish production-grade NuGet SDK libraries following industry-standard open-source practices.
+        - Strong complex-system integration capability, especially in high-concurrency and multi-protocol hardware scenarios.
+        - Passionate about open source and knowledge sharing, with strong communication and coordination skills.
+      ja-JP: |-
+        - ビッグデータ、IoT、AI/LLM、展示設備連動、組込みロボット、3D/ミニプログラムなど複数分野の実践経験。
+        - 産業レベルのオープンソース基準に沿って NuGet SDK を独立設計・公開できる能力。
+        - 高並行処理と複数プロトコルのハードウェア連携を含む複雑なシステム統合に強み。
+        - オープンソースと知識共有に積極的で、円滑なコミュニケーションと調整力を持つ。
+      fr-FR: |-
+        - Expérience pratique multi-domaines : big data, IoT, IA/LLM, orchestration d'équipements d'exposition, robotique embarquée et livraison 3D/mini-programmes.
+        - Capacité prouvée à concevoir et publier indépendamment des SDK NuGet de niveau production selon les standards open source.
+        - Solide capacité d'intégration de systèmes complexes, notamment en haute concurrence et scénarios matériels multi-protocoles.
+        - Forte culture open source et partage de connaissances, avec de bonnes compétences de communication et de coordination.
+
+  community:
+    title:
+      zh-CN: 开源与社区
+      en-US: Open Source & Community
+      ja-JP: オープンソースとコミュニティ
+      fr-FR: Open source et communauté
+    body:
+      zh-CN: |-
+        - GitHub 公开仓库 70+，涵盖 SDK 库、大数据、AI、物联网、自动化、3D/小程序等工程。
+        - 发布多个 NuGet 开源包，面向全球 .NET 开发者提供多语言文档（中/英/日/法）。
+        - 持续参与技术社区与行业交流。
+      en-US: |-
+        - 70+ public GitHub repositories covering SDK libraries, big data, AI, IoT, automation, 3D, mini programs, and more.
+        - Published multiple NuGet open-source packages with multilingual documentation (Chinese/English/Japanese/French) for global .NET developers.
+        - Continuously participates in technical communities and industry exchanges.
+      ja-JP: |-
+        - SDK ライブラリ、ビッグデータ、AI、IoT、自動化、3D、ミニプログラムなどを含む 70 以上の公開 GitHub リポジトリ。
+        - グローバルな .NET 開発者向けに、中国語・英語・日本語・フランス語のドキュメントを持つ複数の NuGet オープンソースパッケージを公開。
+        - 技術コミュニティと業界交流に継続的に参加。
+      fr-FR: |-
+        - Plus de 70 dépôts GitHub publics couvrant SDK, big data, IA, IoT, automatisation, 3D, mini-programmes et plus encore.
+        - Publication de plusieurs packages NuGet open source avec documentation multilingue (chinois/anglais/japonais/français) pour les développeurs .NET du monde entier.
+        - Participation continue aux communautés techniques et aux échanges sectoriels.
+
+  languages:
+    title:
+      zh-CN: 语言能力
+      en-US: Languages
+      ja-JP: 言語能力
+      fr-FR: Langues
+    body:
+      zh-CN: |-
+        - 中文（母语）
+        - 英文（具备技术文档与资料阅读能力）
+      en-US: |-
+        - Chinese (native)
+        - English (able to read technical documentation and resources)
+      ja-JP: |-
+        - 中国語（母語）
+        - 英語（技術文書と資料の読解が可能）
+      fr-FR: |-
+        - Chinois (langue maternelle)
+        - Anglais (lecture de documentation et ressources techniques)
+
+footer:
+  zh-CN: >-
+    > 更多项目与技术细节，欢迎访问我的 GitHub 主页 [Sunny-DotNet](https://github.com/Sunny-DotNet)。如需补充项目亮点或优化内容，欢迎联系！
+  en-US: >-
+    > For more projects and technical details, visit my GitHub profile [Sunny-DotNet](https://github.com/Sunny-DotNet). Please get in touch for additional project highlights or resume customization.
+  ja-JP: >-
+    > その他のプロジェクトと技術詳細は GitHub プロフィール [Sunny-DotNet](https://github.com/Sunny-DotNet) をご覧ください。プロジェクトの補足や履歴書の調整が必要な場合は、お気軽にご連絡ください。
+  fr-FR: >-
+    > Pour plus de projets et de détails techniques, consultez mon profil GitHub [Sunny-DotNet](https://github.com/Sunny-DotNet). N'hésitez pas à me contacter pour ajouter des points forts ou adapter le CV.

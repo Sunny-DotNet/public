@@ -1,28 +1,28 @@
 # Sunny (Shenzhen)
 
-GitHub: [Sunny-DotNet](https://github.com/Sunny-DotNet)  
-Twitter: [m67186636](https://twitter.com/m67186636)  
-LinkedIn: [sunny-dotnet](https://www.linkedin.com/in/sunny-dotnet)  
+GitHub: [Sunny-DotNet](https://github.com/Sunny-DotNet)<br>
+Twitter: [m67186636](https://twitter.com/m67186636)<br>
+LinkedIn: [sunny-dotnet](https://www.linkedin.com/in/sunny-dotnet)<br>
 Email: m67186636@gmail.com
 
 ---
 
 ## Profile
 
-Senior .NET developer and open-source contributor with over ten years of experience. Specializing in C# backend architecture, NuGet SDK library development, and distributed system design, with broad expertise in big data collection and retrieval, AI/LLM integration, IoT device orchestration, and 3D content delivery. Led multiple provincial key projects and million-scale data platforms. Maintaining 70+ public repositories on GitHub with several published .NET open-source SDK libraries.
+Senior .NET engineer and open-source contributor with over ten years of hands-on engineering experience. Specialized in C# backend architecture, NuGet SDK development, and distributed system design, with broad experience across big-data ingestion and retrieval, AI/LLM integration, IoT device orchestration, and 3D scene delivery. Led provincial key projects and million-scale data platforms, maintains 70+ public GitHub repositories, and publishes open-source SDKs for the global .NET community.
 
 ---
 
 ## Strengths & Core Skills
 
-- **Deep .NET Practice**: Expert in .NET 6/7/8/9/10, ABP Framework (DDD layering, multi-tenancy, permission systems), EF Core; led microservice architectures and modularized application development.
-- **NuGet SDK Library Development**: Independently designed and published multiple production-grade .NET SDKs covering cloud services, AI models, and big data parsing — following dependency injection, async-first, multi-target framework (netstandard2.0/net8.0/net10.0), and multi-language documentation standards.
-- **AI & LLM Integration**: Authored DashScope.Net (Alibaba Cloud Tongyi Qianwen) and CloudflareAI.DotNet (Workers AI) SDKs; integrated dify and Ollama local LLMs for smart live-streaming interaction, content generation, and semantic parsing.
-- **Distributed & High Concurrency Processing**: Large-scale data ingestion, high-concurrency distributed crawlers (Common Crawl parsing), MongoDB/Elasticsearch million-scale search and async pipelines, ETL and aggregate analysis.
-- **Industrial-Grade Device Orchestration**: Architect for large exhibition halls with 100+ devices, including clock synchronization, TCP/IP and serial communications, precise device orchestration, and disaster recovery.
-- **Frontend & Cross-platform Development**: Proficient in JavaScript/TypeScript, Vue 3, Blazor Server/WASM, THREE.JS for 3D scene rendering, UNI-APP mini programs, and MAUI cross-platform desktop applications.
-- **IoT & Robotics**: Arduino/ESP32 hardware drivers, coordinated with 3D printing and microcontroller orchestration, distributed modular automation.
-- **DevOps & Continuous Delivery**: GitHub Actions CI/CD, Docker/K8s containerized deployment, Selenium WebDriver E2E testing, NuGet automated publishing pipelines.
+- **Deep .NET ecosystem practice**: Expert in .NET 6/7/8/9/10, ABP Framework (DDD layering, multi-tenancy, permission systems), and EF Core; led microservice architectures and modular application development.
+- **NuGet SDK development**: Independently designed and published production-grade .NET SDKs for cloud services, AI models, and big-data parsing, following dependency injection, async-first APIs, multi-target frameworks, and multilingual documentation standards.
+- **AI & LLM integration**: Authored DashScope.Net and CloudflareAI.DotNet SDKs; integrated dify and Ollama local LLMs for intelligent unattended live-streaming interaction, content generation, and bullet-chat semantic understanding.
+- **Distributed & high-concurrency processing**: Large-scale data ingestion, high-concurrency distributed crawling, Common Crawl parsing, MongoDB/Elasticsearch million-scale search, async pipelines, ETL, and aggregate analysis.
+- **Industrial-grade device orchestration**: Architected central control for 10,000+ square meter exhibition spaces and 100+ devices, covering clock synchronization, TCP/IP and serial communication, synchronized scheduling, and disaster recovery.
+- **Frontend & cross-platform development**: Skilled with JavaScript/TypeScript, Vue 3, Blazor Server/WASM, THREE.JS 3D scene rendering, UNI-APP mini programs, and MAUI cross-platform desktop applications.
+- **Embedded & robotics systems**: Arduino/ESP32 hardware drivers, 3D printing, and microcomputer control for distributed modular collaboration and automation.
+- **DevOps & continuous delivery**: GitHub Actions CI/CD, Docker/Kubernetes deployments, Selenium WebDriver E2E testing, and automated NuGet publishing pipelines.
 
 ---
 
@@ -32,7 +32,7 @@ Senior .NET developer and open-source contributor with over ten years of experie
 - **SDK/NuGet Libraries**: CommonCrawl.Net, DigitalOcean.Net, DashScope.Net, CloudflareAI.DotNet, MusicBrainz.Net
 - **Big Data/AI**: MongoDB, Elasticsearch, Common Crawl, dify, Ollama, ML.NET, OpenCV/Emgu CV, Tesseract OCR
 - **Frontend/Cross-platform**: JavaScript, TypeScript, Vue 3, Blazor Server/WASM, Ant Design Vue, Element UI, ECharts/Chart.js, THREE.JS, UNI-APP, MAUI
-- **IoT/Embedded**: Arduino, ESP32, TCP/IP, Serial comm, Clock sync (NTP)
+- **IoT/Embedded**: Arduino, ESP32, TCP/IP, serial communication, clock synchronization (NTP)
 - **DevOps/Testing**: GitHub Actions, Azure DevOps, Docker, Kubernetes, Selenium WebDriver, Allure
 - **Other**: Redis, IdentityServer, RESTful API, JWT, OAuth2.0, SourceLink, Agile development
 
@@ -42,147 +42,128 @@ Senior .NET developer and open-source contributor with over ten years of experie
 
 ### Open-Source .NET SDK Libraries
 
-Independently designed and maintained multiple open-source SDK libraries for the .NET ecosystem, consistently following dependency injection, async-first, multi-target framework compilation, and multi-language documentation standards.
+Independently designed and maintained multiple open-source SDK libraries for the .NET ecosystem, consistently following dependency injection, async-first APIs, multi-target framework compilation, and multilingual documentation standards.
 
 | SDK Library | Description | Technical Highlights |
 |-------------|-------------|---------------------|
 | [**CommonCrawl.Net**](https://github.com/Sunny-DotNet/CommonCrawl.Net) | Common Crawl web archive parsing library | WARC parsing, Parquet index reading, resume support, `IAsyncEnumerable<T>` streaming |
-| [**DigitalOcean.Net**](https://github.com/Sunny-DotNet/DigitalOcean.Net) | DigitalOcean cloud API client | 40+ resource categories, OpenAPI code generation, strongly-typed DTOs |
-| [**DashScope.Net**](https://github.com/Sunny-DotNet/DashScope.Net) | Alibaba Cloud DashScope (Tongyi Qianwen) LLM SDK | Chat/Video generation APIs, function calling, SSE streaming |
-| [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | Cloudflare Workers AI lightweight SDK | SSE streaming output, model discovery & metadata mapping |
-| [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | MusicBrainz music metadata client | Media info retrieval, video download, metadata parsing |
-
----
+| [**DigitalOcean.Net**](https://github.com/Sunny-DotNet/DigitalOcean.Net) | DigitalOcean cloud API client | 40+ resource categories, OpenAPI code generation, strongly typed DTOs |
+| [**DashScope.Net**](https://github.com/Sunny-DotNet/DashScope.Net) | Alibaba Cloud DashScope/Tongyi Qianwen LLM SDK | Chat/video generation APIs, function calling, SSE streaming |
+| [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | Lightweight SDK for Cloudflare Workers AI | SSE streaming output, model discovery and metadata mapping, environment-based configuration |
+| [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | MusicBrainz music metadata client | Media information retrieval, video download, metadata parsing |
 
 ### ExchangeRates — Automated International Exchange Rate Service ⭐5
 
 - Fully automated international exchange rate data service built with GitHub Actions, syncing every hour with continuous stable operation.
-- Covers major global currency exchange rates, outputting both full and compact JSON formats with ISO 4217 compliance.
-- Earned 5 GitHub stars — the highest-starred personal project, adopted by external developers.
+- Covers major global currencies, outputting both full and compact JSON formats with ISO 4217 compliance.
+- Earned 5 GitHub stars as the highest-starred personal project and has been adopted by external developers.
 
 [ExchangeRates project repo](https://github.com/Sunny-DotNet/ExchangeRates)
 
----
-
 ### Provincial Key Exhibition Hall System — Large-Scale Device Orchestration & 3D Scene Display
 
-- Led the architecture and implementation for a provincial key project: an exhibition hall spanning over 10,000 square meters, integrating 100+ screens, projectors, AV systems, and automated mechanical devices.
-- Built core orchestration services in C#/.NET for backend control, device partition management, multi-zone / grouped live show switch, and remote troubleshooting.
-- Developed proprietary clock sync protocols (NTP/private) for millisecond-precision device triggers across all endpoints.
-- Implemented distributed failure detection, health monitoring and disaster recovery, with real-time abnormal alerting and automated scheduling.
-- Delivered immersive 3D scene display and visual effects, powered by THREE.JS, including virtual roaming, holography, dynamic particle effects, and multiple-screen coordination.
-- Achieved stable delivery and received high praise from stakeholders for reliability and technical depth.
-
----
+- Led architecture and implementation for a provincial key exhibition hall spanning over 10,000 square meters, integrating 100+ screens, projectors, AV systems, lighting, and automated mechanical devices.
+- Built C#/.NET central-control backend and scheduling services, managing hardware by zones through TCP/IP and serial protocols with grouped synchronization and show-mode switching.
+- Developed NTP/private clock synchronization mechanisms with millisecond-level trigger precision across all terminals.
+- Implemented distributed fault diagnosis, disaster recovery scheduling, device health monitoring, and remote abnormal alerts.
+- Delivered multi-screen 3D scene rendering and visual-effect orchestration with THREE.JS, including virtual roaming, holographic projection, and dynamic particles.
+- Led stable delivery of health monitoring and automated scheduling systems, earning strong stakeholder recognition.
 
 ### Global-sites — Distributed Big Data Collection & Million-Scale Search
 
-- Led high-performance data ingestion and analytics service, supporting live analysis and retrieval of millions of web records.
-- Built scalable .NET backend architecture with distributed scheduling; leveraged self-developed CommonCrawl.Net SDK for Common Crawl WARC batch processing, automated text/structure/meta extraction.
-- MongoDB sharded clusters + Elasticsearch full-text index, sub-second query for hundreds of GB of data.
-- Custom deduplication and cleansing pipeline for accurate statistics and deep content mining.
-- Extensible ETL pipeline foundation for multiple business lines.
+- Led high-concurrency data collection and content analytics supporting real-time processing and retrieval of millions of web records.
+- Built a .NET distributed scheduling architecture, using the self-developed CommonCrawl.Net SDK to ingest Common Crawl datasets, batch parse WARC files, and extract page structure and metadata.
+- MongoDB sharded clusters + Elasticsearch full-text indexing for querying and aggregating hundreds of GB of data.
+- Designed deduplication and cleansing pipelines to improve statistical and analytical accuracy.
+- Built extensible batch ETL pipelines as a reusable high-quality data foundation.
 
 [Global-sites project repo](https://github.com/Sunny-DotNet/Global-sites)
 
----
-
 ### Smart Beauty Management Platform (beauty)
 
-- Backend core developer, delivered modular .NET Core + Dapr microservices, EF Core data models, and efficient querying.
-- Real-time log analytics and operational statistics using Elasticsearch.
-- Developed Vue.js + TypeScript + Ant Design Vue frontend for multichannel business scenario interaction.
-- Launched UNI-APP based Mini Programs for quick cross-platform feature rollout to WeChat, Alipay, Douyin, etc.
-- Unified API gateway for mobile, web, mini program; automated deployment pipeline, multi-role permission management, message pushes, third-party payment integration.
+- Delivered modular backend development with .NET Core + Dapr microservices, EF Core modeling, and efficient querying.
+- Implemented real-time logging and operational analytics with Elasticsearch.
+- Built Vue.js + TypeScript + Ant Design Vue frontend experiences with unified APIs and decoupled business modules.
+- Launched UNI-APP mini programs for WeChat, Alipay, Douyin, and other mainstream platforms.
+- Unified API gateway across mobile, web, and mini programs with automated deployment, role-based permissions, push messaging, and third-party payment integration.
 
 [beauty project repo](https://github.com/Sunny-DotNet/beauty)
 
----
-
 ### Unattended Matrix Live Streaming Platform (mt)
 
-- Built a scalable, fully unattended matrix live streaming platform including automated stream control, remote push, multi-channel bullet chat, and audience behavior analysis.
-- .NET Core backend with SignalR for real-time interaction, Quartz.NET for automated scheduling and Docker for elastic deployments.
-- AI integration: Authored DashScope.Net SDK for Tongyi Qianwen model access; integrated dify (AI knowledge base, QA bot) and Ollama (local LLM inference), enabling smart bullet chat response, automatic content generation, and script planning.
-- Multi-account multi-platform control, containerized high concurrency processing.
+- Built a matrix-style unattended live-streaming platform with automated recovery, remote streaming, bullet-chat interaction, and audience behavior analytics.
+- .NET Core + SignalR for real-time interaction, Quartz.NET for automated live scheduling, and Docker for elastic deployments.
+- AI integration: authored DashScope.Net SDK for Tongyi Qianwen models and integrated dify and Ollama for automatic bullet-chat replies, content generation, and business script planning.
+- Multi-platform, multi-account automated operations with containerized high-concurrency processing.
 
 [mt project repo](https://github.com/Sunny-DotNet/mt)
 
----
-
 ### Vision Recognition Platform (Vision)
 
-- Utilized OpenCV for .NET and Emgu CV for image processing, Tesseract OCR, ML.NET for ML model integration.
-- ABP-based modular microservices with DDD layering, multitenancy and fine-grained permission management.
-- Frontend decoupled (Blazor/Vue), Docker-based automated testing and deployment.
+- Applied OpenCV for .NET/Emgu CV image processing, Tesseract OCR, and ML.NET machine-learning model integration.
+- ABP microservice architecture with multi-tenancy, fine-grained permissions, and modular DDD layering.
+- Decoupled Blazor/Vue frontend design with Docker-based automated testing and deployment.
 
 [Vision project repo](https://github.com/Sunny-DotNet/Vision)
 
----
-
 ### Embedded Robotics & IoT Assembly
 
-- Arduino control for servos, sensors, robotic arms; integrated open source 3D modeling and printing for modular assembly.
-- Custom microcontroller communication protocols for distributed robot module orchestration; supported basic speech interaction and action logic.
-- Applied in educational settings and interactive exhibitions.
+- Controlled servos, robotic arms, and sensors on Arduino platforms, combined with open-source 3D printing for modular assembly.
+- Connected multiple microcontroller modules for simple voice interaction, robot action decisions, online upgrades, and multitask collaboration.
+- Applied in educational scenarios and intelligent exhibition displays.
 
----
+### ABP Enterprise Business Systems
 
-### ABP Enterprise Business System
-
-- Deep ABP Framework practice across multiple projects (GuorunAbp, OpenHub, Soobn.Music).
-- Modular domain-driven design (DDD), complete layering: Application/Core/EntityFrameworkCore/Web.
-- Multi-DB support, IdentityServer authentication, fine-grained permission management and multi-tenancy.
-- HangFire background task scheduling, Redis distributed caching, SignalR real-time push.
-- Complex frontend with Vue 3/Blazor, supporting multiple business verticals.
-
----
+- Deep ABP Framework practice across GuorunAbp, OpenHub, Soobn.Music, and related projects.
+- Modular domain-driven design with full Application/Core/EntityFrameworkCore/Web layering.
+- Multi-database support, IdentityServer authentication, fine-grained permissions, and multi-tenancy.
+- HangFire background jobs, Redis distributed caching, and SignalR real-time push.
+- Complex Vue 3/Blazor frontend development supporting multiple business domains.
 
 ### Selenium WebDriver Automated Testing Platform
 
-- End-to-end UI testing, Allure reporting, integrated with GitHub Actions CI/CD for efficient automated acceptance.
-- Browser automation (Puppeteer/Selenium) applied across multiple projects for regression testing and data collection scenarios.
+- End-to-end UI automation testing with Allure reports, integrated with GitHub Actions CI/CD for efficient acceptance.
+- Browser automation with Puppeteer/Selenium applied to regression testing and data collection scenarios.
 
 ---
 
 ## Education
 
-China National Open University  
+China National Open University<br>
 Major: Computer Information Management
 
 ---
 
 ## Certifications
 
-- **Foundational C# with Microsoft**  
-  freeCodeCamp · Issued: Oct 2025  
-  Certificate ID: sunny-dotnet-fcswm  
-  ![image1](image1)
+- **Foundational C# with Microsoft**<br>
+  freeCodeCamp · Issued: Oct 2025<br>
+  Certificate ID: sunny-dotnet-fcswm
 
 ---
 
 ## Highlights
 
-- Multi-domain hands-on experience: big data, IoT, AI/LLM, exhibition device orchestration, robotics, 3D/mini program implementation
-- Proven ability to independently design and publish production-grade NuGet SDK libraries following industry-standard open-source practices
-- Strong complex engineering & system integration capability, excels in high concurrency and multi-protocol hardware solutions
-- Passionate open source contributor, excellent communication and collaboration skills
+- Multi-domain hands-on experience across big data, IoT, AI/LLM, exhibition device orchestration, embedded robotics, and 3D/mini-program delivery.
+- Proven ability to independently design and publish production-grade NuGet SDK libraries following industry-standard open-source practices.
+- Strong complex-system integration capability, especially in high-concurrency and multi-protocol hardware scenarios.
+- Passionate about open source and knowledge sharing, with strong communication and coordination skills.
 
 ---
 
 ## Open Source & Community
 
-- 70+ public GitHub repositories: SDK libraries, big data, AI, IoT, 3D, automation, mini programs and more
-- Published multiple NuGet open-source packages with multi-language documentation (Chinese/English/Japanese/French) for global .NET developers
-- Active in technical forums and industry exchanges
+- 70+ public GitHub repositories covering SDK libraries, big data, AI, IoT, automation, 3D, mini programs, and more.
+- Published multiple NuGet open-source packages with multilingual documentation (Chinese/English/Japanese/French) for global .NET developers.
+- Continuously participates in technical communities and industry exchanges.
 
 ---
 
 ## Languages
 
 - Chinese (native)
-- English (able to read technical documentation & resources)
+- English (able to read technical documentation and resources)
 
 ---
 
-> For more projects and details, visit my GitHub profile [Sunny-DotNet](https://github.com/Sunny-DotNet). For project highlights or resume customization, please get in touch!
+> For more projects and technical details, visit my GitHub profile [Sunny-DotNet](https://github.com/Sunny-DotNet). Please get in touch for additional project highlights or resume customization.
