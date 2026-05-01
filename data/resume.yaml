@@ -1,26 +1,26 @@
 locales:
-  zh-CN:
-    file: Resume_zh-CN.md
-  en-US:
-    file: Resume_en-US.md
-  ja-JP:
-    file: Resume_ja-JP.md
-  fr-FR:
-    file: Resume_fr-FR.md
+  zh-Hans:
+    file: Resume_zh-Hans.md
+  en:
+    file: Resume_en.md
+  ja:
+    file: Resume_ja.md
+  fr:
+    file: Resume_fr.md
 
 identity:
   name:
-    zh-CN: Sunny（深圳）
-    en-US: Sunny (Shenzhen)
-    ja-JP: Sunny（深圳）
-    fr-FR: Sunny (Shenzhen)
+    zh-Hans: Sunny（深圳）
+    en: Sunny (Shenzhen)
+    ja: Sunny（深圳）
+    fr: Sunny (Shenzhen)
 
 labels:
   email:
-    zh-CN: 邮箱
-    en-US: Email
-    ja-JP: メール
-    fr-FR: E-mail
+    zh-Hans: 邮箱
+    en: Email
+    ja: メール
+    fr: E-mail
 
 contact:
   github:
@@ -48,28 +48,28 @@ sectionOrder:
 sections:
   profile:
     title:
-      zh-CN: 个人简介
-      en-US: Profile
-      ja-JP: プロフィール
-      fr-FR: Profil
+      zh-Hans: 个人简介
+      en: Profile
+      ja: プロフィール
+      fr: Profil
     body:
-      zh-CN: |-
+      zh-Hans: |-
         高级 .NET 技术专家与开源开发者，拥有十余年工程经验。专注 C# 后端架构、NuGet SDK 库开发、分布式系统设计，同时具备大数据采集与检索、AI/大模型应用集成、物联网设备联动和 3D 场景展示的综合能力。曾主导省级重点工程与百万级数据平台交付，在 GitHub 维护 70+ 个公开仓库，并发布多个面向全球 .NET 开发者的开源 SDK。
-      en-US: |-
+      en: |-
         Senior .NET engineer and open-source contributor with over ten years of hands-on engineering experience. Specialized in C# backend architecture, NuGet SDK development, and distributed system design, with broad experience across big-data ingestion and retrieval, AI/LLM integration, IoT device orchestration, and 3D scene delivery. Led provincial key projects and million-scale data platforms, maintains 70+ public GitHub repositories, and publishes open-source SDKs for the global .NET community.
-      ja-JP: |-
+      ja: |-
         10 年以上の実務経験を持つシニア .NET エンジニア兼オープンソース開発者です。C# バックエンドアーキテクチャ、NuGet SDK 開発、分散システム設計を専門とし、大規模データ収集・検索、AI/LLM 連携、IoT デバイス制御、3D シーン表示まで幅広く対応できます。省級重点プロジェクトやミリオンスケールのデータ基盤を主導し、GitHub で 70 以上の公開リポジトリを管理し、グローバルな .NET 開発者向けに複数のオープンソース SDK を公開しています。
-      fr-FR: |-
+      fr: |-
         Ingénieur .NET senior et contributeur open source avec plus de dix ans d'expérience terrain. Spécialisé dans l'architecture backend C#, le développement de SDK NuGet et la conception de systèmes distribués, avec une expérience étendue en collecte et recherche de données massives, intégration IA/LLM, orchestration d'équipements IoT et rendu de scènes 3D. A piloté des projets provinciaux clés et des plateformes de données à l'échelle du million, maintient plus de 70 dépôts publics sur GitHub et publie plusieurs SDK open source pour la communauté .NET mondiale.
 
   strengths:
     title:
-      zh-CN: 技术优势与核心能力
-      en-US: Strengths & Core Skills
-      ja-JP: 強みと主要スキル
-      fr-FR: Forces et compétences clés
+      zh-Hans: 技术优势与核心能力
+      en: Strengths & Core Skills
+      ja: 強みと主要スキル
+      fr: Forces et compétences clés
     body:
-      zh-CN: |-
+      zh-Hans: |-
         - **.NET 生态深度实践**：精通 .NET 6/7/8/9/10、ABP Framework（DDD 分层、多租户、权限体系）、EF Core，主导微服务架构与模块化应用开发。
         - **NuGet SDK 库开发**：独立设计并发布多个高质量 .NET SDK，覆盖云服务、AI 模型、大数据解析等领域，遵循依赖注入、异步优先、多目标框架、多语言文档的工业级标准。
         - **AI 与大模型集成**：封装 DashScope.Net、CloudflareAI.DotNet 等 SDK；集成 dify、Ollama 本地大模型，应用于无人直播智能互动、内容生成与弹幕语义理解。
@@ -78,7 +78,7 @@ sections:
         - **前端与跨端开发**：熟悉 JavaScript/TypeScript、Vue 3、Blazor Server/WASM、THREE.JS 3D 场景渲染、UNI-APP 小程序、MAUI 跨平台桌面应用。
         - **嵌入式与机器人系统**：Arduino/ESP32 硬件驱动，结合 3D 打印与微机中控，实现多模块分布式协作与自动化。
         - **DevOps 与持续交付**：GitHub Actions CI/CD、Docker/Kubernetes 容器化部署、Selenium WebDriver 端到端测试、NuGet 自动发布流水线。
-      en-US: |-
+      en: |-
         - **Deep .NET ecosystem practice**: Expert in .NET 6/7/8/9/10, ABP Framework (DDD layering, multi-tenancy, permission systems), and EF Core; led microservice architectures and modular application development.
         - **NuGet SDK development**: Independently designed and published production-grade .NET SDKs for cloud services, AI models, and big-data parsing, following dependency injection, async-first APIs, multi-target frameworks, and multilingual documentation standards.
         - **AI & LLM integration**: Authored DashScope.Net and CloudflareAI.DotNet SDKs; integrated dify and Ollama local LLMs for intelligent unattended live-streaming interaction, content generation, and bullet-chat semantic understanding.
@@ -87,7 +87,7 @@ sections:
         - **Frontend & cross-platform development**: Skilled with JavaScript/TypeScript, Vue 3, Blazor Server/WASM, THREE.JS 3D scene rendering, UNI-APP mini programs, and MAUI cross-platform desktop applications.
         - **Embedded & robotics systems**: Arduino/ESP32 hardware drivers, 3D printing, and microcomputer control for distributed modular collaboration and automation.
         - **DevOps & continuous delivery**: GitHub Actions CI/CD, Docker/Kubernetes deployments, Selenium WebDriver E2E testing, and automated NuGet publishing pipelines.
-      ja-JP: |-
+      ja: |-
         - **.NET エコシステムの深い実践**：.NET 6/7/8/9/10、ABP Framework（DDD レイヤリング、マルチテナント、権限管理）、EF Core に精通し、マイクロサービスアーキテクチャとモジュール化アプリケーション開発を主導。
         - **NuGet SDK 開発**：クラウドサービス、AI モデル、大規模データ解析向けの .NET SDK を独立して設計・公開。依存性注入、非同期優先 API、マルチターゲット、複数言語ドキュメントを重視。
         - **AI/LLM 連携**：DashScope.Net、CloudflareAI.DotNet などの SDK を開発。dify と Ollama ローカル LLM を連携し、無人ライブ配信の対話、コンテンツ生成、コメント意味理解に活用。
@@ -96,7 +96,7 @@ sections:
         - **フロントエンド・クロスプラットフォーム**：JavaScript/TypeScript、Vue 3、Blazor Server/WASM、THREE.JS、UNI-APP、MAUI に対応。
         - **組込み・ロボティクス**：Arduino/ESP32、3D プリント、マイコン制御を組み合わせた分散モジュール協調と自動化。
         - **DevOps・継続的デリバリー**：GitHub Actions CI/CD、Docker/Kubernetes、Selenium WebDriver E2E テスト、NuGet 自動公開パイプライン。
-      fr-FR: |-
+      fr: |-
         - **Pratique approfondie de l'écosystème .NET** : maîtrise de .NET 6/7/8/9/10, ABP Framework (DDD, multi-tenant, permissions) et EF Core ; pilotage d'architectures microservices et d'applications modulaires.
         - **Développement de SDK NuGet** : conception et publication de SDK .NET de niveau production pour les services cloud, les modèles IA et l'analyse de données massives, avec injection de dépendances, API asynchrones, multi-ciblage et documentation multilingue.
         - **Intégration IA et LLM** : auteur de DashScope.Net et CloudflareAI.DotNet ; intégration de dify et d'Ollama pour l'interaction intelligente en live-streaming automatisé, la génération de contenu et la compréhension sémantique des messages.
@@ -108,12 +108,12 @@ sections:
 
   techStack:
     title:
-      zh-CN: 技能栈
-      en-US: Tech Stack
-      ja-JP: 技術スタック
-      fr-FR: Stack technique
+      zh-Hans: 技能栈
+      en: Tech Stack
+      ja: 技術スタック
+      fr: Stack technique
     body:
-      zh-CN: |-
+      zh-Hans: |-
         - **后端/分布式**：C#/.NET 6+，ABP Framework，Dapr，Quartz.NET，EF Core，SignalR，HangFire
         - **SDK/NuGet 库**：CommonCrawl.Net，DigitalOcean.Net，DashScope.Net，CloudflareAI.DotNet，MusicBrainz.Net
         - **大数据/AI**：MongoDB，Elasticsearch，Common Crawl，dify，Ollama，ML.NET，OpenCV/Emgu CV，Tesseract OCR
@@ -121,7 +121,7 @@ sections:
         - **物联网/嵌入式**：Arduino，ESP32，TCP/IP，串口通信，时钟同步（NTP）
         - **DevOps/测试**：GitHub Actions，Azure DevOps，Docker，Kubernetes，Selenium WebDriver，Allure
         - **其它**：Redis，IdentityServer，RESTful API，JWT，OAuth2.0，SourceLink，敏捷开发
-      en-US: |-
+      en: |-
         - **Backend/Distributed**: C#/.NET 6+, ABP Framework, Dapr, Quartz.NET, EF Core, SignalR, HangFire
         - **SDK/NuGet Libraries**: CommonCrawl.Net, DigitalOcean.Net, DashScope.Net, CloudflareAI.DotNet, MusicBrainz.Net
         - **Big Data/AI**: MongoDB, Elasticsearch, Common Crawl, dify, Ollama, ML.NET, OpenCV/Emgu CV, Tesseract OCR
@@ -129,7 +129,7 @@ sections:
         - **IoT/Embedded**: Arduino, ESP32, TCP/IP, serial communication, clock synchronization (NTP)
         - **DevOps/Testing**: GitHub Actions, Azure DevOps, Docker, Kubernetes, Selenium WebDriver, Allure
         - **Other**: Redis, IdentityServer, RESTful API, JWT, OAuth2.0, SourceLink, Agile development
-      ja-JP: |-
+      ja: |-
         - **バックエンド/分散**：C#/.NET 6+、ABP Framework、Dapr、Quartz.NET、EF Core、SignalR、HangFire
         - **SDK/NuGet ライブラリ**：CommonCrawl.Net、DigitalOcean.Net、DashScope.Net、CloudflareAI.DotNet、MusicBrainz.Net
         - **ビッグデータ/AI**：MongoDB、Elasticsearch、Common Crawl、dify、Ollama、ML.NET、OpenCV/Emgu CV、Tesseract OCR
@@ -137,7 +137,7 @@ sections:
         - **IoT/組込み**：Arduino、ESP32、TCP/IP、シリアル通信、時刻同期（NTP）
         - **DevOps/テスト**：GitHub Actions、Azure DevOps、Docker、Kubernetes、Selenium WebDriver、Allure
         - **その他**：Redis、IdentityServer、RESTful API、JWT、OAuth2.0、SourceLink、アジャイル開発
-      fr-FR: |-
+      fr: |-
         - **Backend/Distribué** : C#/.NET 6+, ABP Framework, Dapr, Quartz.NET, EF Core, SignalR, HangFire
         - **SDK/Bibliothèques NuGet** : CommonCrawl.Net, DigitalOcean.Net, DashScope.Net, CloudflareAI.DotNet, MusicBrainz.Net
         - **Big Data/IA** : MongoDB, Elasticsearch, Common Crawl, dify, Ollama, ML.NET, OpenCV/Emgu CV, Tesseract OCR
@@ -148,12 +148,12 @@ sections:
 
   projects:
     title:
-      zh-CN: 主要项目经验
-      en-US: Major Project Experience
-      ja-JP: 主なプロジェクト経験
-      fr-FR: Expériences projet majeures
+      zh-Hans: 主要项目经验
+      en: Major Project Experience
+      ja: 主なプロジェクト経験
+      fr: Expériences projet majeures
     body:
-      zh-CN: |-
+      zh-Hans: |-
         ### 开源 .NET SDK 库
 
         独立设计并维护多个面向 .NET 生态的开源 SDK 库，统一遵循依赖注入、异步优先、多目标框架编译、多语言文档的设计规范。
@@ -238,7 +238,7 @@ sections:
 
         - 端到端 UI 自动化测试，Allure 可视化报告，结合 GitHub Actions CI/CD 流水线实现高效自动化验收。
         - 浏览器自动化（Puppeteer/Selenium）应用于多个项目的回归测试与数据采集场景。
-      en-US: |-
+      en: |-
         ### Open-Source .NET SDK Libraries
 
         Independently designed and maintained multiple open-source SDK libraries for the .NET ecosystem, consistently following dependency injection, async-first APIs, multi-target framework compilation, and multilingual documentation standards.
@@ -323,7 +323,7 @@ sections:
 
         - End-to-end UI automation testing with Allure reports, integrated with GitHub Actions CI/CD for efficient acceptance.
         - Browser automation with Puppeteer/Selenium applied to regression testing and data collection scenarios.
-      ja-JP: |-
+      ja: |-
         ### オープンソース .NET SDK ライブラリ
 
         .NET エコシステム向けに複数のオープンソース SDK を独立して設計・保守し、依存性注入、非同期優先 API、マルチターゲットビルド、複数言語ドキュメントの設計基準を一貫して適用しています。
@@ -408,7 +408,7 @@ sections:
 
         - Allure レポート付き E2E UI 自動テストを GitHub Actions CI/CD と統合し、効率的な受け入れテストを実現。
         - Puppeteer/Selenium によるブラウザ自動化を、回帰テストとデータ収集に活用。
-      fr-FR: |-
+      fr: |-
         ### Bibliothèques .NET SDK open source
 
         Conception et maintenance indépendantes de plusieurs SDK open source pour l'écosystème .NET, avec une approche cohérente : injection de dépendances, API asynchrones, compilation multi-cible et documentation multilingue.
@@ -496,71 +496,71 @@ sections:
 
   education:
     title:
-      zh-CN: 教育背景
-      en-US: Education
-      ja-JP: 学歴
-      fr-FR: Formation
+      zh-Hans: 教育背景
+      en: Education
+      ja: 学歴
+      fr: Formation
     body:
-      zh-CN: |-
+      zh-Hans: |-
         中国国家开放大学<br>
         计算机信息管理专业
-      en-US: |-
+      en: |-
         China National Open University<br>
         Major: Computer Information Management
-      ja-JP: |-
+      ja: |-
         中国国家開放大学<br>
         専攻：コンピュータ情報管理
-      fr-FR: |-
+      fr: |-
         Université ouverte nationale de Chine<br>
         Spécialité : gestion de l'information informatique
 
   certifications:
     title:
-      zh-CN: 资格认证
-      en-US: Certifications
-      ja-JP: 資格・認定
-      fr-FR: Certifications
+      zh-Hans: 资格认证
+      en: Certifications
+      ja: 資格・認定
+      fr: Certifications
     body:
-      zh-CN: |-
+      zh-Hans: |-
         - **Foundational C# with Microsoft**<br>
           freeCodeCamp · 颁发日期：2025 年 10 月<br>
           认证编号：sunny-dotnet-fcswm
-      en-US: |-
+      en: |-
         - **Foundational C# with Microsoft**<br>
           freeCodeCamp · Issued: Oct 2025<br>
           Certificate ID: sunny-dotnet-fcswm
-      ja-JP: |-
+      ja: |-
         - **Foundational C# with Microsoft**<br>
           freeCodeCamp · 発行：2025 年 10 月<br>
           認定 ID：sunny-dotnet-fcswm
-      fr-FR: |-
+      fr: |-
         - **Foundational C# with Microsoft**<br>
           freeCodeCamp · Délivré : octobre 2025<br>
           ID de certification : sunny-dotnet-fcswm
 
   highlights:
     title:
-      zh-CN: 个人亮点
-      en-US: Highlights
-      ja-JP: 個人の強み
-      fr-FR: Points forts
+      zh-Hans: 个人亮点
+      en: Highlights
+      ja: 個人の強み
+      fr: Points forts
     body:
-      zh-CN: |-
+      zh-Hans: |-
         - 多领域实战经验，覆盖大数据、物联网、AI 大模型、展厅设备联动、嵌入式机器人和 3D/小程序展示。
         - 具备独立设计与发布 NuGet SDK 库的能力，遵循工业级开源标准。
         - 擅长复杂系统集成，在高并发与多协议硬件场景中具备较强问题解决能力。
         - 乐于开源、善于知识分享，具备良好的沟通协调能力。
-      en-US: |-
+      en: |-
         - Multi-domain hands-on experience across big data, IoT, AI/LLM, exhibition device orchestration, embedded robotics, and 3D/mini-program delivery.
         - Proven ability to independently design and publish production-grade NuGet SDK libraries following industry-standard open-source practices.
         - Strong complex-system integration capability, especially in high-concurrency and multi-protocol hardware scenarios.
         - Passionate about open source and knowledge sharing, with strong communication and coordination skills.
-      ja-JP: |-
+      ja: |-
         - ビッグデータ、IoT、AI/LLM、展示設備連動、組込みロボット、3D/ミニプログラムなど複数分野の実践経験。
         - 産業レベルのオープンソース基準に沿って NuGet SDK を独立設計・公開できる能力。
         - 高並行処理と複数プロトコルのハードウェア連携を含む複雑なシステム統合に強み。
         - オープンソースと知識共有に積極的で、円滑なコミュニケーションと調整力を持つ。
-      fr-FR: |-
+      fr: |-
         - Expérience pratique multi-domaines : big data, IoT, IA/LLM, orchestration d'équipements d'exposition, robotique embarquée et livraison 3D/mini-programmes.
         - Capacité prouvée à concevoir et publier indépendamment des SDK NuGet de niveau production selon les standards open source.
         - Solide capacité d'intégration de systèmes complexes, notamment en haute concurrence et scénarios matériels multi-protocoles.
@@ -568,54 +568,54 @@ sections:
 
   community:
     title:
-      zh-CN: 开源与社区
-      en-US: Open Source & Community
-      ja-JP: オープンソースとコミュニティ
-      fr-FR: Open source et communauté
+      zh-Hans: 开源与社区
+      en: Open Source & Community
+      ja: オープンソースとコミュニティ
+      fr: Open source et communauté
     body:
-      zh-CN: |-
+      zh-Hans: |-
         - GitHub 公开仓库 70+，涵盖 SDK 库、大数据、AI、物联网、自动化、3D/小程序等工程。
         - 发布多个 NuGet 开源包，面向全球 .NET 开发者提供多语言文档（中/英/日/法）。
         - 持续参与技术社区与行业交流。
-      en-US: |-
+      en: |-
         - 70+ public GitHub repositories covering SDK libraries, big data, AI, IoT, automation, 3D, mini programs, and more.
         - Published multiple NuGet open-source packages with multilingual documentation (Chinese/English/Japanese/French) for global .NET developers.
         - Continuously participates in technical communities and industry exchanges.
-      ja-JP: |-
+      ja: |-
         - SDK ライブラリ、ビッグデータ、AI、IoT、自動化、3D、ミニプログラムなどを含む 70 以上の公開 GitHub リポジトリ。
         - グローバルな .NET 開発者向けに、中国語・英語・日本語・フランス語のドキュメントを持つ複数の NuGet オープンソースパッケージを公開。
         - 技術コミュニティと業界交流に継続的に参加。
-      fr-FR: |-
+      fr: |-
         - Plus de 70 dépôts GitHub publics couvrant SDK, big data, IA, IoT, automatisation, 3D, mini-programmes et plus encore.
         - Publication de plusieurs packages NuGet open source avec documentation multilingue (chinois/anglais/japonais/français) pour les développeurs .NET du monde entier.
         - Participation continue aux communautés techniques et aux échanges sectoriels.
 
   languages:
     title:
-      zh-CN: 语言能力
-      en-US: Languages
-      ja-JP: 言語能力
-      fr-FR: Langues
+      zh-Hans: 语言能力
+      en: Languages
+      ja: 言語能力
+      fr: Langues
     body:
-      zh-CN: |-
+      zh-Hans: |-
         - 中文（母语）
         - 英文（具备技术文档与资料阅读能力）
-      en-US: |-
+      en: |-
         - Chinese (native)
         - English (able to read technical documentation and resources)
-      ja-JP: |-
+      ja: |-
         - 中国語（母語）
         - 英語（技術文書と資料の読解が可能）
-      fr-FR: |-
+      fr: |-
         - Chinois (langue maternelle)
         - Anglais (lecture de documentation et ressources techniques)
 
 footer:
-  zh-CN: >-
+  zh-Hans: >-
     > 更多项目与技术细节，欢迎访问我的 GitHub 主页 [Sunny-DotNet](https://github.com/Sunny-DotNet)。如需补充项目亮点或优化内容，欢迎联系！
-  en-US: >-
+  en: >-
     > For more projects and technical details, visit my GitHub profile [Sunny-DotNet](https://github.com/Sunny-DotNet). Please get in touch for additional project highlights or resume customization.
-  ja-JP: >-
+  ja: >-
     > その他のプロジェクトと技術詳細は GitHub プロフィール [Sunny-DotNet](https://github.com/Sunny-DotNet) をご覧ください。プロジェクトの補足や履歴書の調整が必要な場合は、お気軽にご連絡ください。
-  fr-FR: >-
+  fr: >-
     > Pour plus de projets et de détails techniques, consultez mon profil GitHub [Sunny-DotNet](https://github.com/Sunny-DotNet). N'hésitez pas à me contacter pour ajouter des points forts ou adapter le CV.
