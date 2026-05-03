@@ -9,7 +9,7 @@ Email: m67186636@gmail.com
 
 ## Profile
 
-Senior .NET engineer and open-source contributor with over ten years of hands-on engineering experience. Specialized in C# backend architecture, NuGet SDK development, and distributed system design, with broad experience across big-data ingestion and retrieval, AI/LLM integration, IoT device orchestration, and 3D scene delivery. Led provincial key projects and million-scale data platforms, maintains 70+ public GitHub repositories, and publishes open-source SDKs for the global .NET community.
+Senior .NET engineer and open-source contributor with over ten years of hands-on engineering experience. Specialized in C# backend architecture, NuGet SDK development, and distributed system design, with broad experience across big-data ingestion and retrieval, AI/LLM integration, IoT device orchestration, and 3D scene delivery. Led provincial key projects and million-scale data platforms, maintains 30+ public GitHub repositories, and publishes open-source SDKs for the global .NET community.
 
 ---
 
@@ -153,7 +153,7 @@ Major: Computer Information Management
 
 ## Open Source & Community
 
-- 70+ public GitHub repositories covering SDK libraries, big data, AI, IoT, automation, 3D, mini programs, and more.
+- 30+ public GitHub repositories covering SDK libraries, big data, AI, IoT, automation, 3D, mini programs, and more.
 - Published multiple NuGet open-source packages with multilingual documentation (Chinese/English/Japanese/French) for global .NET developers.
 - Continuously participates in technical communities and industry exchanges.
 

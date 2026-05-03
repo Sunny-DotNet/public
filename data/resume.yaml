@@ -54,9 +54,9 @@ sections:
       fr: Profil
     body:
       zh-Hans: |-
-        高级 .NET 技术专家与开源开发者，拥有十余年工程经验。专注 C# 后端架构、NuGet SDK 库开发、分布式系统设计，同时具备大数据采集与检索、AI/大模型应用集成、物联网设备联动和 3D 场景展示的综合能力。曾主导省级重点工程与百万级数据平台交付，在 GitHub 维护 70+ 个公开仓库，并发布多个面向全球 .NET 开发者的开源 SDK。
+        高级 .NET 技术专家与开源开发者，拥有十余年工程经验。专注 C# 后端架构、NuGet SDK 库开发、分布式系统设计，同时具备大数据采集与检索、AI/大模型应用集成、物联网设备联动和 3D 场景展示的综合能力。曾主导省级重点工程与百万级数据平台交付，在 GitHub 维护 30+ 个公开仓库，并发布多个面向全球 .NET 开发者的开源 SDK。
       en: |-
-        Senior .NET engineer and open-source contributor with over ten years of hands-on engineering experience. Specialized in C# backend architecture, NuGet SDK development, and distributed system design, with broad experience across big-data ingestion and retrieval, AI/LLM integration, IoT device orchestration, and 3D scene delivery. Led provincial key projects and million-scale data platforms, maintains 70+ public GitHub repositories, and publishes open-source SDKs for the global .NET community.
+        Senior .NET engineer and open-source contributor with over ten years of hands-on engineering experience. Specialized in C# backend architecture, NuGet SDK development, and distributed system design, with broad experience across big-data ingestion and retrieval, AI/LLM integration, IoT device orchestration, and 3D scene delivery. Led provincial key projects and million-scale data platforms, maintains 30+ public GitHub repositories, and publishes open-source SDKs for the global .NET community.
       ja: |-
         10 年以上の実務経験を持つシニア .NET エンジニア兼オープンソース開発者です。C# バックエンドアーキテクチャ、NuGet SDK 開発、分散システム設計を専門とし、大規模データ収集・検索、AI/LLM 連携、IoT デバイス制御、3D シーン表示まで幅広く対応できます。省級重点プロジェクトやミリオンスケールのデータ基盤を主導し、GitHub で 70 以上の公開リポジトリを管理し、グローバルな .NET 開発者向けに複数のオープンソース SDK を公開しています。
       fr: |-
@@ -574,11 +574,11 @@ sections:
       fr: Open source et communauté
     body:
       zh-Hans: |-
-        - GitHub 公开仓库 70+，涵盖 SDK 库、大数据、AI、物联网、自动化、3D/小程序等工程。
+        - GitHub 公开仓库 30+，涵盖 SDK 库、大数据、AI、物联网、自动化、3D/小程序等工程。
         - 发布多个 NuGet 开源包，面向全球 .NET 开发者提供多语言文档（中/英/日/法）。
         - 持续参与技术社区与行业交流。
       en: |-
-        - 70+ public GitHub repositories covering SDK libraries, big data, AI, IoT, automation, 3D, mini programs, and more.
+        - 30+ public GitHub repositories covering SDK libraries, big data, AI, IoT, automation, 3D, mini programs, and more.
         - Published multiple NuGet open-source packages with multilingual documentation (Chinese/English/Japanese/French) for global .NET developers.
         - Continuously participates in technical communities and industry exchanges.
       ja: |-
@@ -619,3 +619,4 @@ footer:
     > その他のプロジェクトと技術詳細は GitHub プロフィール [Sunny-DotNet](https://github.com/Sunny-DotNet) をご覧ください。プロジェクトの補足や履歴書の調整が必要な場合は、お気軽にご連絡ください。
   fr: >-
     > Pour plus de projets et de détails techniques, consultez mon profil GitHub [Sunny-DotNet](https://github.com/Sunny-DotNet). N'hésitez pas à me contacter pour ajouter des points forts ou adapter le CV.
+
