@@ -52,11 +52,11 @@ Independently designed and maintained multiple open-source SDK libraries for the
 | [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | Lightweight SDK for Cloudflare Workers AI | SSE streaming output, model discovery and metadata mapping, environment-based configuration |
 | [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | MusicBrainz music metadata client | Media information retrieval, video download, metadata parsing |
 
-### ExchangeRates — Automated International Exchange Rate Service ⭐5
+### ExchangeRates — Automated International Exchange Rate Service
 
 - Fully automated international exchange rate data service built with GitHub Actions, syncing every hour with continuous stable operation.
 - Covers major global currencies, outputting both full and compact JSON formats with ISO 4217 compliance.
-- Earned 5 GitHub stars as the highest-starred personal project and has been adopted by external developers.
+- Fully automates data ingestion, validation, formatting, and publishing, making it suitable as a lightweight data source for business systems, dashboards, and public APIs.
 
 [ExchangeRates project repo](https://github.com/Sunny-DotNet/ExchangeRates)
 
@@ -144,10 +144,10 @@ Major: Computer Information Management
 
 ## Highlights
 
-- Multi-domain hands-on experience across big data, IoT, AI/LLM, exhibition device orchestration, embedded robotics, and 3D/mini-program delivery.
-- Proven ability to independently design and publish production-grade NuGet SDK libraries following industry-standard open-source practices.
-- Strong complex-system integration capability, especially in high-concurrency and multi-protocol hardware scenarios.
-- Passionate about open source and knowledge sharing, with strong communication and coordination skills.
+- Turns complex ideas into running systems: end-to-end delivery across data ingestion, backend architecture, frontend presentation, device orchestration, and automated deployment.
+- Converts engineering experience into reusable products: independently designs and publishes NuGet SDKs with type safety, async-first APIs, dependency injection, multi-targeting, and multilingual documentation.
+- Strong cross-boundary integration capability: combines high-concurrency data, AI models, hardware protocols, 3D visualization, and business workflows into stable solutions.
+- Maintains an open-source engineering mindset, using public projects, automated pipelines, and continuous documentation to demonstrate technical judgment and long-term maintainability.
 
 ---
 

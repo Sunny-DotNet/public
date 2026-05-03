@@ -52,11 +52,11 @@ Conception et maintenance indépendantes de plusieurs SDK open source pour l'éc
 | [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | SDK léger pour Cloudflare Workers AI | Sortie SSE en streaming, découverte de modèles et mapping de métadonnées, configuration par variables d'environnement |
 | [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | Client de métadonnées musicales MusicBrainz | Recherche média, téléchargement vidéo, analyse de métadonnées |
 
-### ExchangeRates — Service automatisé de taux de change internationaux ⭐5
+### ExchangeRates — Service automatisé de taux de change internationaux
 
 - Service de données de taux de change internationaux entièrement automatisé avec GitHub Actions, synchronisé toutes les heures et stable en continu.
 - Couvre les principales devises mondiales et produit des JSON complets et compacts conformes ISO 4217.
-- A obtenu 5 étoiles GitHub, le meilleur score parmi les projets personnels, et a été adopté par des développeurs externes.
+- Automatise entièrement l'ingestion, la validation, le formatage et la publication des données, utilisable comme source légère pour systèmes métier, tableaux de bord et API publiques.
 
 [Dépôt ExchangeRates](https://github.com/Sunny-DotNet/ExchangeRates)
 
@@ -144,10 +144,10 @@ Spécialité : gestion de l'information informatique
 
 ## Points forts
 
-- Expérience pratique multi-domaines : big data, IoT, IA/LLM, orchestration d'équipements d'exposition, robotique embarquée et livraison 3D/mini-programmes.
-- Capacité prouvée à concevoir et publier indépendamment des SDK NuGet de niveau production selon les standards open source.
-- Solide capacité d'intégration de systèmes complexes, notamment en haute concurrence et scénarios matériels multi-protocoles.
-- Forte culture open source et partage de connaissances, avec de bonnes compétences de communication et de coordination.
+- Transforme des idées complexes en systèmes opérationnels : livraison de bout en bout, de l'ingestion de données à l'architecture backend, l'interface frontend, l'orchestration d'équipements et le déploiement automatisé.
+- Convertit l'expérience d'ingénierie en produits réutilisables : conception et publication indépendantes de SDK NuGet avec typage fort, API asynchrones, injection de dépendances, multi-ciblage et documentation multilingue.
+- Forte capacité d'intégration transverse : combine données haute concurrence, modèles IA, protocoles matériels, visualisation 3D et workflows métier en solutions stables.
+- Culture d'ingénierie open source : projets publics, pipelines automatisés et documentation continue démontrent jugement technique et maintenabilité à long terme.
 
 ---
 

@@ -166,11 +166,11 @@ sections:
         | [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | Cloudflare Workers AI 轻量 SDK | SSE 流式输出、模型发现与元数据映射、环境变量配置 |
         | [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | MusicBrainz 音乐元数据库客户端 | 媒体信息检索、视频下载、元数据解析 |
 
-        ### ExchangeRates —— 国际汇率自动化数据服务 ⭐5
+        ### ExchangeRates —— 国际汇率自动化数据服务
 
         - 基于 GitHub Actions 构建的全自动国际汇率数据服务，每小时同步一次，持续稳定运行。
         - 覆盖全球主要货币汇率，输出完整版与精简版 JSON 格式，支持 ISO 4217 标准。
-        - 项目获 5 个 GitHub Star，是个人最高星标项目，已被外部开发者采用。
+        - 将数据采集、校验、格式化与发布流程完全自动化，适合作为业务系统、数据看板和开放接口的轻量级数据源。
 
         [ExchangeRates 项目仓库](https://github.com/Sunny-DotNet/ExchangeRates)
 
@@ -251,11 +251,11 @@ sections:
         | [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | Lightweight SDK for Cloudflare Workers AI | SSE streaming output, model discovery and metadata mapping, environment-based configuration |
         | [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | MusicBrainz music metadata client | Media information retrieval, video download, metadata parsing |
 
-        ### ExchangeRates — Automated International Exchange Rate Service ⭐5
+        ### ExchangeRates — Automated International Exchange Rate Service
 
         - Fully automated international exchange rate data service built with GitHub Actions, syncing every hour with continuous stable operation.
         - Covers major global currencies, outputting both full and compact JSON formats with ISO 4217 compliance.
-        - Earned 5 GitHub stars as the highest-starred personal project and has been adopted by external developers.
+        - Fully automates data ingestion, validation, formatting, and publishing, making it suitable as a lightweight data source for business systems, dashboards, and public APIs.
 
         [ExchangeRates project repo](https://github.com/Sunny-DotNet/ExchangeRates)
 
@@ -336,11 +336,11 @@ sections:
         | [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | Cloudflare Workers AI 向け軽量 SDK | SSE ストリーミング出力、モデル検出とメタデータマッピング、環境変数設定 |
         | [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | MusicBrainz 音楽メタデータクライアント | メディア情報検索、動画ダウンロード、メタデータ解析 |
 
-        ### ExchangeRates — 国際為替レート自動データサービス ⭐5
+        ### ExchangeRates — 国際為替レート自動データサービス
 
         - GitHub Actions で構築した完全自動の国際為替レートデータサービス。1 時間ごとに同期し、安定稼働。
         - 主要通貨の為替レートをカバーし、ISO 4217 に準拠した完全版・軽量版 JSON を出力。
-        - 個人プロジェクトとして最高の 5 GitHub Star を獲得し、外部開発者にも利用されています。
+        - データ収集、検証、整形、公開を完全自動化し、業務システム、データダッシュボード、公開 API の軽量データソースとして利用可能。
 
         [ExchangeRates プロジェクト](https://github.com/Sunny-DotNet/ExchangeRates)
 
@@ -421,11 +421,11 @@ sections:
         | [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | SDK léger pour Cloudflare Workers AI | Sortie SSE en streaming, découverte de modèles et mapping de métadonnées, configuration par variables d'environnement |
         | [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | Client de métadonnées musicales MusicBrainz | Recherche média, téléchargement vidéo, analyse de métadonnées |
 
-        ### ExchangeRates — Service automatisé de taux de change internationaux ⭐5
+        ### ExchangeRates — Service automatisé de taux de change internationaux
 
         - Service de données de taux de change internationaux entièrement automatisé avec GitHub Actions, synchronisé toutes les heures et stable en continu.
         - Couvre les principales devises mondiales et produit des JSON complets et compacts conformes ISO 4217.
-        - A obtenu 5 étoiles GitHub, le meilleur score parmi les projets personnels, et a été adopté par des développeurs externes.
+        - Automatise entièrement l'ingestion, la validation, le formatage et la publication des données, utilisable comme source légère pour systèmes métier, tableaux de bord et API publiques.
 
         [Dépôt ExchangeRates](https://github.com/Sunny-DotNet/ExchangeRates)
 
@@ -546,25 +546,25 @@ sections:
       fr: Points forts
     body:
       zh-Hans: |-
-        - 多领域实战经验，覆盖大数据、物联网、AI 大模型、展厅设备联动、嵌入式机器人和 3D/小程序展示。
-        - 具备独立设计与发布 NuGet SDK 库的能力，遵循工业级开源标准。
-        - 擅长复杂系统集成，在高并发与多协议硬件场景中具备较强问题解决能力。
-        - 乐于开源、善于知识分享，具备良好的沟通协调能力。
+        - 能把复杂想法落成可运行系统：从数据采集、后端架构、前端展示到设备联动与自动化部署，具备端到端交付能力。
+        - 能把经验沉淀成可复用产品：独立设计并发布 NuGet SDK，重视类型安全、异步模型、依赖注入、多目标框架和多语言文档。
+        - 擅长跨边界系统集成：同时处理高并发数据、AI 模型、硬件协议、3D 可视化和业务流程，把分散技术组合成稳定方案。
+        - 保持开源工程习惯：用公开项目、自动化流水线和持续文档化证明技术判断力与长期维护能力。
       en: |-
-        - Multi-domain hands-on experience across big data, IoT, AI/LLM, exhibition device orchestration, embedded robotics, and 3D/mini-program delivery.
-        - Proven ability to independently design and publish production-grade NuGet SDK libraries following industry-standard open-source practices.
-        - Strong complex-system integration capability, especially in high-concurrency and multi-protocol hardware scenarios.
-        - Passionate about open source and knowledge sharing, with strong communication and coordination skills.
+        - Turns complex ideas into running systems: end-to-end delivery across data ingestion, backend architecture, frontend presentation, device orchestration, and automated deployment.
+        - Converts engineering experience into reusable products: independently designs and publishes NuGet SDKs with type safety, async-first APIs, dependency injection, multi-targeting, and multilingual documentation.
+        - Strong cross-boundary integration capability: combines high-concurrency data, AI models, hardware protocols, 3D visualization, and business workflows into stable solutions.
+        - Maintains an open-source engineering mindset, using public projects, automated pipelines, and continuous documentation to demonstrate technical judgment and long-term maintainability.
       ja: |-
-        - ビッグデータ、IoT、AI/LLM、展示設備連動、組込みロボット、3D/ミニプログラムなど複数分野の実践経験。
-        - 産業レベルのオープンソース基準に沿って NuGet SDK を独立設計・公開できる能力。
-        - 高並行処理と複数プロトコルのハードウェア連携を含む複雑なシステム統合に強み。
-        - オープンソースと知識共有に積極的で、円滑なコミュニケーションと調整力を持つ。
+        - 複雑なアイデアを動くシステムに落とし込める：データ収集、バックエンド設計、フロントエンド表示、設備連動、自動デプロイまでエンドツーエンドで対応。
+        - 実務経験を再利用可能なプロダクトへ変換できる：型安全、非同期優先 API、依存性注入、マルチターゲット、複数言語ドキュメントを備えた NuGet SDK を独立設計・公開。
+        - 領域横断の統合に強い：高並行データ、AI モデル、ハードウェアプロトコル、3D 可視化、業務フローを組み合わせて安定した解決策を構築。
+        - オープンソース型のエンジニアリング習慣を持ち、公開プロジェクト、自動化パイプライン、継続的なドキュメント化で技術判断力と長期保守性を示す。
       fr: |-
-        - Expérience pratique multi-domaines : big data, IoT, IA/LLM, orchestration d'équipements d'exposition, robotique embarquée et livraison 3D/mini-programmes.
-        - Capacité prouvée à concevoir et publier indépendamment des SDK NuGet de niveau production selon les standards open source.
-        - Solide capacité d'intégration de systèmes complexes, notamment en haute concurrence et scénarios matériels multi-protocoles.
-        - Forte culture open source et partage de connaissances, avec de bonnes compétences de communication et de coordination.
+        - Transforme des idées complexes en systèmes opérationnels : livraison de bout en bout, de l'ingestion de données à l'architecture backend, l'interface frontend, l'orchestration d'équipements et le déploiement automatisé.
+        - Convertit l'expérience d'ingénierie en produits réutilisables : conception et publication indépendantes de SDK NuGet avec typage fort, API asynchrones, injection de dépendances, multi-ciblage et documentation multilingue.
+        - Forte capacité d'intégration transverse : combine données haute concurrence, modèles IA, protocoles matériels, visualisation 3D et workflows métier en solutions stables.
+        - Culture d'ingénierie open source : projets publics, pipelines automatisés et documentation continue démontrent jugement technique et maintenabilité à long terme.
 
   community:
     title:

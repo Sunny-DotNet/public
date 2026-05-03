@@ -52,11 +52,11 @@ LinkedIn: [sunny-dotnet](https://www.linkedin.com/in/sunny-dotnet)<br>
 | [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | Cloudflare Workers AI 向け軽量 SDK | SSE ストリーミング出力、モデル検出とメタデータマッピング、環境変数設定 |
 | [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | MusicBrainz 音楽メタデータクライアント | メディア情報検索、動画ダウンロード、メタデータ解析 |
 
-### ExchangeRates — 国際為替レート自動データサービス ⭐5
+### ExchangeRates — 国際為替レート自動データサービス
 
 - GitHub Actions で構築した完全自動の国際為替レートデータサービス。1 時間ごとに同期し、安定稼働。
 - 主要通貨の為替レートをカバーし、ISO 4217 に準拠した完全版・軽量版 JSON を出力。
-- 個人プロジェクトとして最高の 5 GitHub Star を獲得し、外部開発者にも利用されています。
+- データ収集、検証、整形、公開を完全自動化し、業務システム、データダッシュボード、公開 API の軽量データソースとして利用可能。
 
 [ExchangeRates プロジェクト](https://github.com/Sunny-DotNet/ExchangeRates)
 
@@ -144,10 +144,10 @@ LinkedIn: [sunny-dotnet](https://www.linkedin.com/in/sunny-dotnet)<br>
 
 ## 個人の強み
 
-- ビッグデータ、IoT、AI/LLM、展示設備連動、組込みロボット、3D/ミニプログラムなど複数分野の実践経験。
-- 産業レベルのオープンソース基準に沿って NuGet SDK を独立設計・公開できる能力。
-- 高並行処理と複数プロトコルのハードウェア連携を含む複雑なシステム統合に強み。
-- オープンソースと知識共有に積極的で、円滑なコミュニケーションと調整力を持つ。
+- 複雑なアイデアを動くシステムに落とし込める：データ収集、バックエンド設計、フロントエンド表示、設備連動、自動デプロイまでエンドツーエンドで対応。
+- 実務経験を再利用可能なプロダクトへ変換できる：型安全、非同期優先 API、依存性注入、マルチターゲット、複数言語ドキュメントを備えた NuGet SDK を独立設計・公開。
+- 領域横断の統合に強い：高並行データ、AI モデル、ハードウェアプロトコル、3D 可視化、業務フローを組み合わせて安定した解決策を構築。
+- オープンソース型のエンジニアリング習慣を持ち、公開プロジェクト、自動化パイプライン、継続的なドキュメント化で技術判断力と長期保守性を示す。
 
 ---
 

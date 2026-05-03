@@ -52,11 +52,11 @@ LinkedIn: [sunny-dotnet](https://www.linkedin.com/in/sunny-dotnet)<br>
 | [**CloudflareAI.DotNet**](https://github.com/Sunny-DotNet/CloudflareAI.DotNet) | Cloudflare Workers AI 轻量 SDK | SSE 流式输出、模型发现与元数据映射、环境变量配置 |
 | [**MusicBrainz.Net**](https://github.com/Sunny-DotNet/MusicBrainz.Net) | MusicBrainz 音乐元数据库客户端 | 媒体信息检索、视频下载、元数据解析 |
 
-### ExchangeRates —— 国际汇率自动化数据服务 ⭐5
+### ExchangeRates —— 国际汇率自动化数据服务
 
 - 基于 GitHub Actions 构建的全自动国际汇率数据服务，每小时同步一次，持续稳定运行。
 - 覆盖全球主要货币汇率，输出完整版与精简版 JSON 格式，支持 ISO 4217 标准。
-- 项目获 5 个 GitHub Star，是个人最高星标项目，已被外部开发者采用。
+- 将数据采集、校验、格式化与发布流程完全自动化，适合作为业务系统、数据看板和开放接口的轻量级数据源。
 
 [ExchangeRates 项目仓库](https://github.com/Sunny-DotNet/ExchangeRates)
 
@@ -144,10 +144,10 @@ LinkedIn: [sunny-dotnet](https://www.linkedin.com/in/sunny-dotnet)<br>
 
 ## 个人亮点
 
-- 多领域实战经验，覆盖大数据、物联网、AI 大模型、展厅设备联动、嵌入式机器人和 3D/小程序展示。
-- 具备独立设计与发布 NuGet SDK 库的能力，遵循工业级开源标准。
-- 擅长复杂系统集成，在高并发与多协议硬件场景中具备较强问题解决能力。
-- 乐于开源、善于知识分享，具备良好的沟通协调能力。
+- 能把复杂想法落成可运行系统：从数据采集、后端架构、前端展示到设备联动与自动化部署，具备端到端交付能力。
+- 能把经验沉淀成可复用产品：独立设计并发布 NuGet SDK，重视类型安全、异步模型、依赖注入、多目标框架和多语言文档。
+- 擅长跨边界系统集成：同时处理高并发数据、AI 模型、硬件协议、3D 可视化和业务流程，把分散技术组合成稳定方案。
+- 保持开源工程习惯：用公开项目、自动化流水线和持续文档化证明技术判断力与长期维护能力。
 
 ---
 
