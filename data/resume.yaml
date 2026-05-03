@@ -58,9 +58,9 @@ sections:
       en: |-
         Senior .NET engineer and open-source contributor with over ten years of hands-on engineering experience. Specialized in C# backend architecture, NuGet SDK development, and distributed system design, with broad experience across big-data ingestion and retrieval, AI/LLM integration, IoT device orchestration, and 3D scene delivery. Led provincial key projects and million-scale data platforms, maintains 30+ public GitHub repositories, and publishes open-source SDKs for the global .NET community.
       ja: |-
-        10 年以上の実務経験を持つシニア .NET エンジニア兼オープンソース開発者です。C# バックエンドアーキテクチャ、NuGet SDK 開発、分散システム設計を専門とし、大規模データ収集・検索、AI/LLM 連携、IoT デバイス制御、3D シーン表示まで幅広く対応できます。省級重点プロジェクトやミリオンスケールのデータ基盤を主導し、GitHub で 70 以上の公開リポジトリを管理し、グローバルな .NET 開発者向けに複数のオープンソース SDK を公開しています。
+        10 年以上の実務経験を持つシニア .NET エンジニア兼オープンソース開発者です。C# バックエンドアーキテクチャ、NuGet SDK 開発、分散システム設計を専門とし、大規模データ収集・検索、AI/LLM 連携、IoT デバイス制御、3D シーン表示まで幅広く対応できます。省級重点プロジェクトやミリオンスケールのデータ基盤を主導し、GitHub で 30 以上の公開リポジトリを管理し、グローバルな .NET 開発者向けに複数のオープンソース SDK を公開しています。
       fr: |-
-        Ingénieur .NET senior et contributeur open source avec plus de dix ans d'expérience terrain. Spécialisé dans l'architecture backend C#, le développement de SDK NuGet et la conception de systèmes distribués, avec une expérience étendue en collecte et recherche de données massives, intégration IA/LLM, orchestration d'équipements IoT et rendu de scènes 3D. A piloté des projets provinciaux clés et des plateformes de données à l'échelle du million, maintient plus de 70 dépôts publics sur GitHub et publie plusieurs SDK open source pour la communauté .NET mondiale.
+        Ingénieur .NET senior et contributeur open source avec plus de dix ans d'expérience terrain. Spécialisé dans l'architecture backend C#, le développement de SDK NuGet et la conception de systèmes distribués, avec une expérience étendue en collecte et recherche de données massives, intégration IA/LLM, orchestration d'équipements IoT et rendu de scènes 3D. A piloté des projets provinciaux clés et des plateformes de données à l'échelle du million, maintient Plus de 30 dépôts publics sur GitHub et publie plusieurs SDK open source pour la communauté .NET mondiale.
 
   strengths:
     title:
@@ -582,11 +582,11 @@ sections:
         - Published multiple NuGet open-source packages with multilingual documentation (Chinese/English/Japanese/French) for global .NET developers.
         - Continuously participates in technical communities and industry exchanges.
       ja: |-
-        - SDK ライブラリ、ビッグデータ、AI、IoT、自動化、3D、ミニプログラムなどを含む 70 以上の公開 GitHub リポジトリ。
+        - SDK ライブラリ、ビッグデータ、AI、IoT、自動化、3D、ミニプログラムなどを含む 30 以上の公開 GitHub リポジトリ。
         - グローバルな .NET 開発者向けに、中国語・英語・日本語・フランス語のドキュメントを持つ複数の NuGet オープンソースパッケージを公開。
         - 技術コミュニティと業界交流に継続的に参加。
       fr: |-
-        - Plus de 70 dépôts GitHub publics couvrant SDK, big data, IA, IoT, automatisation, 3D, mini-programmes et plus encore.
+        - Plus de 30 dépôts GitHub publics couvrant SDK, big data, IA, IoT, automatisation, 3D, mini-programmes et plus encore.
         - Publication de plusieurs packages NuGet open source avec documentation multilingue (chinois/anglais/japonais/français) pour les développeurs .NET du monde entier.
         - Participation continue aux communautés techniques et aux échanges sectoriels.
 
@@ -619,4 +619,5 @@ footer:
     > その他のプロジェクトと技術詳細は GitHub プロフィール [Sunny-DotNet](https://github.com/Sunny-DotNet) をご覧ください。プロジェクトの補足や履歴書の調整が必要な場合は、お気軽にご連絡ください。
   fr: >-
     > Pour plus de projets et de détails techniques, consultez mon profil GitHub [Sunny-DotNet](https://github.com/Sunny-DotNet). N'hésitez pas à me contacter pour ajouter des points forts ou adapter le CV.
+
 
